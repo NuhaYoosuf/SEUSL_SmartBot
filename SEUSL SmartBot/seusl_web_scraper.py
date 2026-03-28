@@ -13,34 +13,165 @@ Output: scraped_data/*.txt  (does NOT modify existing /data folder)
 
 import os
 import time
+import re
 import requests
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse
 
 # Output folder — separate from existing /data to avoid overwriting
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "scraped_data")
+ALLOWLIST_FILE = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "scraper", "seusl_allowlist_urls.txt"
+)
+EXCLUDE_FILE = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "scraper", "seusl_exclude_patterns.txt"
+)
+PRIORITY_FILE = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "scraper", "seusl_crawl_priority.txt"
+)
 
 # SEUSL pages to scrape
 PAGES = {
-    "university_overview":        "https://www.seu.ac.lk/",
-    "faculty_arts_culture":       "https://www.seu.ac.lk/fac/",
-    "faculty_management_commerce":"https://www.seu.ac.lk/fmc/",
-    "faculty_applied_sciences":   "https://www.seu.ac.lk/fas/",
-    "faculty_islamic_studies":    "https://www.seu.ac.lk/fia/",
-    "faculty_engineering":        "https://fe.seu.ac.lk/",
-    "faculty_technology":         "https://www.seu.ac.lk/ft/",
-    "admissions":                 "https://www.seu.ac.lk/admission/",
-    "library":                    "https://www.seu.ac.lk/library/",
-    "ict_centre":                 "https://www.seu.ac.lk/ictcentre/index.php",
-    "career_guidance":            "https://www.seu.ac.lk/careerguidanceunit/index.php",
-    "research_innovation":        "https://www.seu.ac.lk/ric/index.php",
-    "contact":                    "https://www.seu.ac.lk/contact.php",
-    "ospim":                      "https://www.seu.ac.lk/ospim/index.php",
-    "student_welfare":            "https://www.seu.ac.lk/sssw/index.php",
+    "university_overview":         "https://www.seu.ac.lk/overview.php",
+    "vision_mission":              "https://www.seu.ac.lk/vision_and_mission.php",
+    "corporate_direction":         "https://www.seu.ac.lk/corporate_direction.php",
+    "undergraduate_studies":       "https://www.seu.ac.lk/undergraduate_studies.php",
+    "postgraduate_studies":        "https://www.seu.ac.lk/postgraduate_studies.php",
+    "foreign_students":            "https://www.seu.ac.lk/foreign_students.php",
+    "faculty_arts_culture":        "https://www.seu.ac.lk/fac/index.php",
+    "faculty_management_commerce": "https://www.seu.ac.lk/fmc/index.php",
+    "faculty_applied_sciences":    "https://www.seu.ac.lk/fas/index.php",
+    "faculty_islamic_studies":     "https://www.seu.ac.lk/fia/index.php",
+    "faculty_engineering":         "https://www.seu.ac.lk/fe/index.php",
+    "faculty_technology":          "https://www.seu.ac.lk/ft/index.php",
+    "examination":                 "https://www.seu.ac.lk/generaladmin/exams/",
+    "student_welfare":             "https://www.seu.ac.lk/generaladmin/ssw/",
+    "library":                     "https://www.seu.ac.lk/library/index.php",
+    "downloads":                   "https://www.seu.ac.lk/download.php",
+    "guidelines":                  "https://www.seu.ac.lk/guidelines.php",
 }
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; SEUSLResearchBot/1.0)"
 }
+
+
+def make_page_key(url: str, used_keys: set[str]) -> str:
+    """Create deterministic file-safe key from URL path/query and deduplicate when needed."""
+    parsed = urlparse(url)
+    path = parsed.path.strip("/")
+    query = parsed.query
+
+    if not path:
+        base = "home"
+    else:
+        # Build readable key from URL path parts while preserving meaning.
+        path_key = re.sub(r"[^a-zA-Z0-9]+", "_", path).strip("_").lower()
+        base = path_key or "page"
+
+    if query:
+        query_key = re.sub(r"[^a-zA-Z0-9]+", "_", query).strip("_").lower()
+        base = f"{base}_{query_key}"
+
+    key = base
+    counter = 2
+    while key in used_keys:
+        key = f"{base}_{counter}"
+        counter += 1
+    used_keys.add(key)
+    return key
+
+
+def load_pages_from_allowlist(file_path: str) -> dict[str, str]:
+    """Load seed URLs from allowlist text file. Falls back to built-in pages when unavailable."""
+    if not os.path.exists(file_path):
+        return {}
+
+    pages: dict[str, str] = {}
+    used_keys: set[str] = set()
+
+    with open(file_path, "r", encoding="utf-8") as f:
+        for line in f:
+            url = line.strip()
+            if not url or url.startswith("#"):
+                continue
+            if not url.startswith(("http://", "https://")):
+                continue
+            key = make_page_key(url, used_keys)
+            pages[key] = url
+
+    return pages
+
+
+def load_exclude_patterns(file_path: str) -> list[str]:
+    """Load URL exclusion patterns from text file."""
+    if not os.path.exists(file_path):
+        return []
+
+    patterns: list[str] = []
+    with open(file_path, "r", encoding="utf-8") as f:
+        for line in f:
+            rule = line.strip()
+            if not rule or rule.startswith("#"):
+                continue
+            patterns.append(rule)
+    return patterns
+
+
+def load_priority_urls(file_path: str) -> list[str]:
+    """Load crawl priorities from file format: PRIORITY | CATEGORY | URL."""
+    if not os.path.exists(file_path):
+        return []
+
+    priority_urls: list[str] = []
+    seen: set[str] = set()
+    with open(file_path, "r", encoding="utf-8") as f:
+        for line in f:
+            row = line.strip()
+            if not row or row.startswith("#"):
+                continue
+            parts = [part.strip() for part in row.split("|")]
+            if len(parts) != 3:
+                continue
+            url = parts[2]
+            if url.startswith(("http://", "https://")) and url not in seen:
+                priority_urls.append(url)
+                seen.add(url)
+    return priority_urls
+
+
+def is_excluded_url(url: str, patterns: list[str]) -> bool:
+    """Apply simple substring-based exclusion checks for URL filtering."""
+    lowered_url = url.lower()
+    for pattern in patterns:
+        if pattern.lower() in lowered_url:
+            return True
+    return False
+
+
+def order_pages_by_priority(pages: dict[str, str], priority_urls: list[str]) -> dict[str, str]:
+    """Return pages reordered by configured priority URLs while keeping remaining URLs."""
+    if not priority_urls:
+        return pages
+
+    url_to_items: dict[str, list[tuple[str, str]]] = {}
+    for name, url in pages.items():
+        url_to_items.setdefault(url, []).append((name, url))
+
+    ordered: dict[str, str] = {}
+
+    # Add matching priority URLs first.
+    for p_url in priority_urls:
+        for name, url in url_to_items.pop(p_url, []):
+            ordered[name] = url
+
+    # Keep all remaining pages in their original insertion order.
+    for name, url in pages.items():
+        if name in ordered:
+            continue
+        ordered[name] = url
+
+    return ordered
 
 
 def clean_text(text: str) -> str:
@@ -103,14 +234,41 @@ def save_text(name: str, url: str, content: str):
 
 
 def main():
+    pages_to_scrape = load_pages_from_allowlist(ALLOWLIST_FILE) or PAGES
+    exclude_patterns = load_exclude_patterns(EXCLUDE_FILE)
+    priority_urls = load_priority_urls(PRIORITY_FILE)
+
+    if exclude_patterns:
+        pages_to_scrape = {
+            name: url
+            for name, url in pages_to_scrape.items()
+            if not is_excluded_url(url, exclude_patterns)
+        }
+
+    if priority_urls:
+        pages_to_scrape = order_pages_by_priority(pages_to_scrape, priority_urls)
+
     print("=" * 60)
     print("  SEUSL Web Scraper")
     print(f"  Output: {OUTPUT_DIR}")
+    if os.path.exists(ALLOWLIST_FILE):
+        print(f"  URL source: {ALLOWLIST_FILE}")
+    else:
+        print("  URL source: built-in defaults (allowlist file not found)")
+    if os.path.exists(EXCLUDE_FILE):
+        print(f"  Exclude rules: {EXCLUDE_FILE} ({len(exclude_patterns)} patterns)")
+    else:
+        print("  Exclude rules: none (exclude file not found)")
+    if os.path.exists(PRIORITY_FILE):
+        print(f"  Priority map: {PRIORITY_FILE} ({len(priority_urls)} URLs)")
+    else:
+        print("  Priority map: none (priority file not found)")
+    print(f"  Total pages queued: {len(pages_to_scrape)}")
     print("=" * 60)
 
     success, fail = 0, 0
 
-    for name, url in PAGES.items():
+    for name, url in pages_to_scrape.items():
         print(f"\n[{name}]")
         content = scrape_page(name, url)
         if content:

@@ -27,7 +27,7 @@ def chat():
     if not data or not data.get("message"):
         return jsonify({"error": "No message provided"}), 400
     try:
-        resp = requests.post(BACKEND_URL, json={"message": data["message"]}, timeout=120)
+        resp = requests.post(BACKEND_URL, json={"message": data["message"]}, timeout=300)
         resp.raise_for_status()
         return jsonify(resp.json())
     except requests.exceptions.ConnectionError:

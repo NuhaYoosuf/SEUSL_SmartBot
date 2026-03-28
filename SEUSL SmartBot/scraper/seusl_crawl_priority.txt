@@ -1,0 +1,55 @@
+# SEUSL crawl priority map for staged ingestion (P1 highest)
+# Format: PRIORITY | CATEGORY | URL
+
+P1 | About | https://www.seu.ac.lk/overview.php
+P1 | About | https://www.seu.ac.lk/vision_and_mission.php
+P1 | About | https://www.seu.ac.lk/corporate_direction.php
+P1 | Admissions | https://www.seu.ac.lk/undergraduate_studies.php
+P1 | Admissions | https://www.seu.ac.lk/postgraduate_studies.php
+P1 | Admissions | https://www.seu.ac.lk/foreign_students.php
+P1 | Academic | https://www.seu.ac.lk/fac/index.php
+P1 | Academic | https://www.seu.ac.lk/fmc/index.php
+P1 | Academic | https://www.seu.ac.lk/fas/index.php
+P1 | Academic | https://www.seu.ac.lk/fia/index.php
+P1 | Academic | https://www.seu.ac.lk/fe/index.php
+P1 | Academic | https://www.seu.ac.lk/ft/index.php
+P1 | Programmes | https://www.seu.ac.lk/fac/program_of_study.php
+P1 | Programmes | https://www.seu.ac.lk/fmc/program_of_study.php
+P1 | Programmes | https://www.seu.ac.lk/fas/program_of_study.php
+P1 | Programmes | https://www.seu.ac.lk/fia/program_of_study.php
+P1 | Programmes | https://www.seu.ac.lk/fe/program_of_study.php
+P1 | Programmes | https://www.seu.ac.lk/ft/program_of_study.php
+P1 | Exams | https://www.seu.ac.lk/generaladmin/exams/
+P1 | Student Services | https://www.seu.ac.lk/generaladmin/ssw/
+P1 | Student Services | https://www.seu.ac.lk/generaladmin/stacc/
+P1 | Library | https://www.seu.ac.lk/library/index.php
+P1 | Downloads & Rules | https://www.seu.ac.lk/download.php
+P1 | Downloads & Rules | https://www.seu.ac.lk/download_for_student.php
+P1 | Downloads & Rules | https://www.seu.ac.lk/guidelines.php
+
+P2 | Admin Academic Affairs | https://www.seu.ac.lk/generaladmin/asa/
+P2 | Postgraduate Units | https://www.seu.ac.lk/postgradueateunit/index.php
+P2 | Postgraduate Units | https://www.seu.ac.lk/pgufmc/index.php
+P2 | Postgraduate Units | https://www.seu.ac.lk/pgufac/index.php
+P2 | Postgraduate Units | https://www.seu.ac.lk/pguft/index.php
+P2 | External Degrees | https://www.seu.ac.lk/cedpl/index.php
+P2 | Career | https://www.seu.ac.lk/careerguidanceunit/index.php
+P2 | Welfare | https://www.seu.ac.lk/universitylife/hostels/index.php
+P2 | Welfare | https://www.seu.ac.lk/universitylife/healthcentre/index.php
+P2 | Welfare | https://www.seu.ac.lk/universitylife/studentcounsellor/index.php
+P2 | Welfare | https://www.seu.ac.lk/universitylife/studentunion/index.php
+P2 | Library Digital | https://www.seu.ac.lk/library/science_library/index.php
+P2 | Library Digital | https://www.seu.ac.lk/library/elibrary.php
+P2 | Library Digital | https://www.seu.ac.lk/library/online_journals.php
+P2 | Library Digital | https://ir.lib.seu.ac.lk/
+P2 | Library Digital | https://opac.lib.seu.ac.lk/
+P2 | Library Services | https://www.seu.ac.lk/library/document_delivery.php
+P2 | Library Services | https://www.seu.ac.lk/library/urkund.php
+
+P3 | FAQ | https://www.seu.ac.lk/faq.php
+P3 | Site Structure | https://www.seu.ac.lk/sitemap.php
+P3 | Announcements | https://www.seu.ac.lk/notice/
+P3 | Announcements | https://www.seu.ac.lk/news/
+P3 | Announcements | https://www.seu.ac.lk/events/
+P3 | Announcements | https://www.seu.ac.lk/upcoming/
+P3 | Announcements | https://www.seu.ac.lk/vacancy/
