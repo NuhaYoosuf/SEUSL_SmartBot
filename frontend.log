@@ -1,0 +1,7 @@
+=======================================================
+  SEUSL Chatbot — Flask Frontend
+  URL : http://localhost:5000
+  API : http://localhost:8000  (FastAPI backend)
+=======================================================
+ * Serving Flask app 'app'
+ * Debug mode: on
