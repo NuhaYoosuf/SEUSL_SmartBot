@@ -14,7 +14,7 @@ SOURCE_DIRECTORIES = [
     "./pdf_extracted_data",
 ]
 DB_LOCATION = "./seusl_vector_db_v6"
-FORCE_REINDEX = os.getenv("SEUSL_FORCE_REINDEX", "").lower() in {"1", "true", "yes"}
+FORCE_REINDEX = os.getenv("SEUSL_FORCE_REINDEX", "").strip().lower() in {"1", "true", "yes"}
 
 
 def load_all_documents():
@@ -47,7 +47,11 @@ def load_all_documents():
 
 if FORCE_REINDEX and os.path.exists(DB_LOCATION):
     print(f"Removing existing vector database for reindex: {DB_LOCATION}")
-    shutil.rmtree(DB_LOCATION)
+    try:
+        shutil.rmtree(DB_LOCATION)
+    except PermissionError:
+        print(f"WARNING: Could not delete {DB_LOCATION} (files in use). Skipping reindex.")
+        FORCE_REINDEX = False
 
 add_documents = not os.path.exists(DB_LOCATION)
 
@@ -56,8 +60,8 @@ if add_documents:
     raw_documents = load_all_documents()
 
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,
-        chunk_overlap=100,
+        chunk_size=300,
+        chunk_overlap=30,
     )
     documents = splitter.split_documents(raw_documents)
     print(f"Prepared {len(documents)} chunks for embedding.")
@@ -69,7 +73,24 @@ vector_store = Chroma(
 )
 
 if add_documents:
-    vector_store.add_documents(documents=documents)
-    print(f"Indexed {len(documents)} document chunks into the knowledge base.")
+    BATCH_SIZE = 10
+    indexed = 0
+    for i in range(0, len(documents), BATCH_SIZE):
+        batch = documents[i:i + BATCH_SIZE]
+        try:
+            vector_store.add_documents(documents=batch)
+            indexed += len(batch)
+            print(f"  Indexed batch {i // BATCH_SIZE + 1} ({len(batch)} chunks)")
+        except Exception as e:
+            # Fall back to one-by-one indexing for failed batches
+            print(f"  Batch {i // BATCH_SIZE + 1} failed, trying individually...")
+            for doc in batch:
+                try:
+                    vector_store.add_documents(documents=[doc])
+                    indexed += 1
+                except Exception:
+                    preview = doc.page_content[:80].replace("\n", " ")
+                    print(f"    ⚠ Skipped chunk: {preview}...")
+    print(f"Indexed {indexed} document chunks into the knowledge base.")
 
 retriever = vector_store.as_retriever(search_kwargs={"k": 8})

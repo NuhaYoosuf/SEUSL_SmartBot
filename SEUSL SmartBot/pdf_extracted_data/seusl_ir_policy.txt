@@ -1,0 +1,307 @@
+SOURCE: SEUSL PDF Document
+FILE: SEUSL IR Policy.pdf
+============================================================
+
+--- Page 1 ---
+Library Committee Memo No: SEUSL/LC/21/52/05
+Draft Institutional Repository Policy
+Please find attached draft “Institutional Repository Policy” prepared upon the instruction of the
+Library Committee of SEUSL. View opinion and suggestion of the members of the library
+committee is sought to finalize the policy.
+
+--- Page 2 ---
+South Eastern University of Policy No Approval Date
+Sri Lanka
+Title: Responsible Executives
+Vice-Chancellor
+Institutional Repository Policy Deans of the Faculties, Librarian, SAL &
+Assistant Librarian
+1. Preamble
+The Institutional Repositories (IR) of SEUSL was established in the year 2006 when the concept
+of Institutional Repositories in its infancy stage in Sri Lanka. The windows version 2.72 of Green
+Stone Digital Library (GSDL) Software was installed, configured, and customized as the first
+SEUSL Institutional Repository in the year 2006. The purpose of this initiative was to realize the
+goal of the strategic plan 2006 – 2015. The library has then decided to move its institutional
+repository from the GSDL platform to DSpace 4.0 version to set up the digital library in 2014.
+SEUSL E-repository was enhanced with new features of the latest version of DSpace Version 5.5
+on 7th November 2015.
+2. Mission
+The South Eastern University of Sri Lanka Institutional Repository (SEUIR) is to be a nodal point
+of access for scholarship and creative work contributed by the university with the goal of expanding
+the visibility of the university intellectual scholarship to the regional and global community.
+3. Objectives of IR
+1. To collect and store the institutional digital contents in a single platform
+2. To provide open access to institutional research output
+3. To archive, preserve, and disseminate institutional documents including unpublished
+literature
+4. Purpose of the Policy
+The purpose of this policy is to establish a framework within which the institutional repository of
+SEUSL (SEUIR) is managed, to ensure that SEUIR reflects and strengthens the research excellence
+and that research outputs are made available on Open Access for preservation and dissemination.
+5. Content Policy
+The repository shall accept the submission of the following materials.
+i. Conference proceedings of SEUSL (Submitted by the editor/coordinator of the conference)
+ii. Thesis and Dissertations of SEUSL undergraduates, postgraduates, and academics
+(Submitted by the Heads of the departments through Dean of the faculty)
+iii. Journals published by SEUSL (Submitted by the editor of the journal)
+iv. Articles authored by SEUSL Academics (Where the author doesn’t own the copyright, the
+author should get permission from the publisher to deposit the article in IR)
+Page 1 of 11
+
+--- Page 3 ---
+Other types of materials will be considered on a case-by-case basis, including:
+i. Books and book chapters (non-text books)
+ii. Data sets and/or descriptive metadata
+iii. Grey literature (technical reports, research reports, working papers, annual reports,
+convocation address)
+It is encouraged to submit soft copies of the above items.
+6. Submission Policy
+6.1. Items shall only be submitted by the members of SEUSL
+6.2. The SEUIR administrator or authorized person by the administrator will only eligible for
+depositing valid layout, format, and metadata
+6.3. SEUSL academics shall upload the Articles authored and published elsewhere to the
+collection of “Research Articles” (http://ir.lib.seu.ac.lk/handle/123456789/1678) by
+following the guidelines attached herewith.
+6.4. The validity and authenticity of the content of any submission is the responsibility of the
+author/s.
+6.5. If any author plagiarized someone else content and submitted it, University or Library
+will not take any responsibility for it and the full responsibility of such cases will lie on
+the authors.
+6.6. If the author does not own the copyright, the author/s should obtain permission from the
+publishers to deposit the article in SEUIR before submitting it to the repository.
+6.7. Conference proceedings and Journal articles should be sent as a finalized document and
+SEUSL Library staff will separate the items and deposited them in SEUIR.
+6.8. When submitting the university publications such as conference proceedings, journals,
+etc. the editors/ coordinators are responsible to submit the finalize documents as a
+searchable e-version of it. Part by part submission of such items will not be accepted by
+the Library.
+6.9. University publications need to be sent as a complete document and should submit within
+one calendar year.
+6.10. Staff Members are encouraged to submit their articles in e-formats.
+7. Metadata Policy
+ The metadata schema used is principally based on Dublin core
+ Anyone may access the metadata
+8. Exclusion policy
+8.1. Any document which includes confidential information, administrative documents such as
+reports, minutes, and research articles published in predatory journals and conferences.
+8.2. The works which have copyright issues will not be included in SEUIR.
+8.3. Predatory journals and predatory conferences listed under the following links will be
+considered for exclusion unless otherwise it is not indexed in Scopus, Web of Science.
+databases.
+i. https://predatoryjournals.com/journals/
+ii. https://beallslist.net/ (Earlier: https://beallslist.weebly.com/)
+Page 2 of 11
+
+--- Page 4 ---
+iii. Any other recommended websites/ databases will be considered
+upon the recommendation of the University.
+iv. Coverage years of particular journals etc. in indexed databases along with the article
+published date will be checked and excluded if it is not within the index coverage
+years.
+8.4. If there is any query on uploaded articles, after evaluation, SEUIR administrator has the
+full authority to remove the article permanently from SEUIR and it will be informed to the
+author/s of the article.
+9. Accessibility
+DSpace provides support for Creative Commons licenses to be attached to items in the repository.
+They represent an alternative to traditional copyright. The items in the repository except some thesis
+and dissertations are freely accessible via the website (http://ir.lib.seu.ac.lk/) and all of these articles
+are indexed in most common search engines such as Google and Google scholar. The author has
+the full responsibility to obtain the copyright clearance from the respective publishers and editors
+for their contents where the library is providing the central access point to the global users on our
+intellectual contents.
+10. Retention, Replacement & Withdrawal
+10.1 Retention
+10.1.1 Scholarly material/s of SEUSL publications and other scholarly works of the
+SEUSL authors will be accepted unless,
+i. The item infringes on the copyright or other rights
+ii. The item is proven to include falsified research
+iii. The item fails to meet legal requirements
+10.1.2 Even, if the depositor leaves the employment at SEUSL, their items shall be
+retained in the SEUSL repository.
+10.2 Replacement
+10.2.1 The author/s may request to replace an item with another version of it if an error
+is discovered on the content. If so, the author needs to submit the request with
+the approval of the Head/ Dean/ Editor/ Publisher or Coordinator.
+10.2.2 The replacement of any such item may use the same record/ Metadata as the
+original.
+10.2.3 If an editor of a journal or proceeding of SEUSL requested to change the articles
+deposited in SEUIR, he or she should provide the justification to the Librarian.
+10.3 Withdrawal
+10.3.1 All archived items are considered permanent. Content may be removed in case
+of violation of rules or other exceptional circumstances, in which case all the
+information and communication will be saved and registered in a log file for
+future requirements.
+10.3.2 Items shall only be deleted from the SEUSL repository if there are legal issues
+or other exceptional circumstances.
+Page 3 of 11
+
+--- Page 5 ---
+10.3.3 SEUSL repository shall retain the rights to remove the work for professional or
+administrative reasons.
+10.3.4 Acceptable reasons for withdrawal as per the following.
+ Copyright violation
+ Legal requirement
+ Security at the national level
+ Falsified research
+ Duplicates
+10.3.5 If an author wants to withdraw or permanent deletion an article deposited he or
+she must submit the duly completed prescribed form with the recommendation
+of the editor/ coordinator, and then it will be forwarded to the Dean of the
+Faculty and the higher authorities for a decision.
+10.3.6 The sole authority of the Digital Library is with the Librarian.
+11. Copyright
+Works submitted to the SEUSL repository will comply with and are subject to the University’s
+policies. All the related policies such as University Research Policy, Plagiarism Policy will apply
+to the institutional repository items as well.
+11.1 When considering the copyright status of a work, there are two possible situations as
+follows.
+11.1.1 The author owns all rights
+The author will retain full copyright to the work done. If submitted such content by the
+eligible authors to the SEUSL repository, it will increase the visibility of such content
+while raising the profile of the South Eastern University of Sri Lanka.
+11.1.2 The publisher owns some or all rights
+This situation occurs when authors sign an agreement with a publisher. Typically, such
+agreements will transfer some or all rights to the publisher. Publisher copyright policies
+will need to be checked to determine if, and what in what form work may be submitted
+to an institutional repository. It may be necessary to research the publisher's policies.
+These are usually found on the publisher's website, but it may be necessary to contact
+them. Several publishers allow the post-print article (defined as the post-peer reviewed
+version of the article that is accepted by the publisher for final publication) to be
+submitted to an institutional repository, but not the publisher’s PDF version.
+ Post-print: the final, revised version of an article after peer review but prior to
+publisher’s formatting.
+ Pre-print: the author’s version of the article before peer review.
+ Publishers PDF: the final, published version of an article.
+However, when submitting a content to SEUIR, copyrights will be critically evaluated unless if the
+contents are not owned by the university. Library shall check publisher copyright and open access
+archiving policies in online resources such as Sherpa Romeo (https://v2.sherpa.ac.uk/romeo/).
+However, the primary responsibility of conducting copyright clearance falls to the contributor of
+their scholarly works.
+Page 4 of 11
+
+--- Page 6 ---
+12. IR Administration
+Administration activities of SEUIR should be carried out by the assigned administrator for the
+repository by the Librarian.
+13. IR Backup
+Administrator needs to take backups periodically in order to reduce/avoid loss of data in any case.
+14. Contact information
+Address : Librarian,
+South Eastern University of Sri Lanka,
+University Park,
+Oluvil. #32360
+Email : Librarian: rifayiqa@seu.ac.lk
+SEUIR in charge: esbandara@seu.ac.lk (On study Leave) or saajith@seu.ac.lk
+Page 5 of 11
+
+--- Page 7 ---
+Definitions
+Institutional Repository (IR):
+Institutional repository is a set of services that a university offers to the members of its community
+for the management and dissemination of digital materials created by the institution and its
+community members1. It includes an organization’s commitment to the stewardship of digital
+materials, including long-term preservation where appropriate, as well as organization and access.
+DSpace:
+DSpace is an open-source software package used for a digital library. It preserves and enables easy
+and open access to all types of digital content including text, images, moving images, mpegs, and
+data sets.
+Deposit:
+A deposit represents a bundle of the submitted information. Typically, a deposit consists of
+descriptive metadata, access conditions and copyright information, and any relevant uploaded files.
+This entire set of saved information is the deposit record.
+Depositor:
+A depositor is the creator of a deposit record, who submits digital items and associated data for
+review, approval, and uploads to the repository.
+Dublin Core:
+The Dublin Core is an initiative to create a digital ‘Library card Catalog’ for the web. It is made up
+of a set of 15 standard metadata elements that facilitate the indexing and searching of electronic
+resources in the World Wide Web.
+Open-access repository:
+Scholarly articles stored and made available on the public internet, permitting any users to read,
+download, copy, distribute, print, search, or link to the full texts of these articles, crawl them for
+indexing, pass them as data to software, or use them for any other lawful, noncommercial purpose,
+without financial, legal, or technical barriers other than those inseparable from gaining access to
+the internet itself.
+1Clifford A. Lynch and Joan K. Lippincott, “Institutional Repository Deployment in the United States of Early
+2005,” D-Lib Magazine 11, no. 9 (Sept. 2005): Available online at
+http://www.dlib.org/dlib/september05/lynch/09lynch.html
+Page 6 of 11
+
+--- Page 8 ---
+DSpace Submission Guidelines
+STEP 1
+Click SEUSL Library Institutional Repository (Digital Library or SEU e Repository)
+(http://ir.lib.seu.ac.lk/) Menu from the Library website (http://www.seu.ac.lk/library/index.php)
+Page 7 of 11
+
+--- Page 9 ---
+STEP 2: SIGN IN TO DSPACE:
+Click on “Login” button and register as a new user. Follow the instructions in order to complete
+the registration. Alert will go to the email address used in the registration. To complete registration
+for a DSpace account, duly complete the form and submit. The Email address will be verified and
+used as your login name.
+STEP 3
+Click on the “Communities & Collection” to select a separate collection “Research Articles”
+(http://ir.lib.seu.ac.lk/handle/123456789/1678) created for you to upload your articles published in
+elsewhere (other than SEUSL Publications), viz Journals, Chapters of books, Reports and
+Proceedings etc..
+Page 8 of 11
+
+--- Page 10 ---
+STEP 4
+Click on,
+“Submit a new item to this collection (http://ir.lib.seu.ac.lk/handle/123456789/1678/submit)
+You need to fill out selected fields on page (Item Submission – Describe Item Page 1). By filling
+out these fields in the form, you are creating a metadata record for your item. Your ability to provide
+more information about an item will increase more chances for users to find the item.
+Page 9 of 11
+
+--- Page 11 ---
+ Author: Enter information about a person/ organization/ service responsible for creating or
+contributing to the content of the item. Click on the Add more button if the item has more
+than one Author
+Eg: Sewwandi, B. G. N.; Takahiro, K.; Kawamoto, K.; Hamamoto, S.; Asamoto, S.; Sato,
+H.
+ Tile: Enter full and proper title of an item.
+Eg:
+Evaluation of leachate contamination potential of municipal solid waste dumpsites in
+Sri Lanka using leachate pollution index.
+ Other Tile: Alternative titles may include abbreviations, translations, or acronyms etc.
+ Date of Issue: Enter the date, month and year if possible.
+Citation: If you submitting journal article, you need to enter the journal title, volume number,
+date and pagination. For book chapters, include the book title, place of publication, publisher
+name, date and page numbers.
+Eg:
+14th International Waste Management and Landfill Symposium. 30th Sep-4th Oct,
+2013. Sardinia, Italy. pp. 212- 223.
+Tropical Agricultural Research, 21(4): 353 - 360.
+ Series and Report No.: Series and Report Number field stored information such as technical
+reports and working papers with numbered series.
+ Identifiers: Enter any number or code that identifies this item in some other system and select
+the type of identification system from the drop down menu. (ISBN /ISSN / URI)
+Page 10 of 11
+
+--- Page 12 ---
+ Type: Select the type of work that best defined your item. You can select more than one type.
+ Language: Select the language of the intellectual content of your item.
+STEP 5 Submit Describe Item Page 2
+ Subject Keywords: Enter appropriate subject keywords or phrases.
+Eg: Coconut husk
+You can click on “Add” button, to enter more than one subject or keywords.
+ Abstract: Enter the abstract of the item. Including an abstract makes your work more accessible
+for searching and retrieving for users. There is no limit to the length of the abstract you attach
+to your item in the system.
+ Sponsors: This field is required if you are submitting an item related to sponsored research or
+special funding. You can provide information about the sponsors or funding bodies.
+ Description: Enter any other information about to your submission or comment that you think
+may be of interest to users of the item.
+STEP 6 : Submit ; upload file (s) :-
+Click “Browse” button a new window will allow you to select the file from your computer.
+STEP 7 : Item Submission : Review Submission: -
+To correct or edit information about your item, click on the corresponding button on “Correct one
+of these”, or use the button in the progress bar at the top of the page to move back through the
+submission pages.
+STEP 8 : Item Submission : Distribution License
+Your agreement is required before your item can be published in our University “e Repository”.
+Click on “I Grant the license” button. Finally click on “Complete submission”
+Page 11 of 11
