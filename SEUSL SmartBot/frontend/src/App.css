@@ -50,6 +50,8 @@ body { background: var(--bg); font-family: -apple-system, BlinkMacSystemFont, "S
 .online-dot { font-size: 0.72rem; color: #86efac; font-weight: 500; }
 .icon-btn { background: rgba(255,255,255,0.15); border: none; border-radius: 50%; width: 36px; height: 36px; cursor: pointer; font-size: 1rem; transition: background 0.2s; display: flex; align-items: center; justify-content: center; }
 .icon-btn:hover { background: rgba(255,255,255,0.28); }
+.lang-btn { background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); border-radius: 16px; padding: 4px 12px; color: var(--header-text); cursor: pointer; font-size: 0.75rem; font-weight: 600; transition: background 0.2s; white-space: nowrap; }
+.lang-btn:hover { background: rgba(255,255,255,0.28); }
 .chat-body { flex: 1; overflow-y: auto; padding: 20px 16px; display: flex; flex-direction: column; gap: 14px; scroll-behavior: smooth; }
 .chat-body::-webkit-scrollbar { width: 5px; }
 .chat-body::-webkit-scrollbar-track { background: transparent; }
