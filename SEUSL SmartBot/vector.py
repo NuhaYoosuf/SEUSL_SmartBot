@@ -10,10 +10,8 @@ embeddings = OllamaEmbeddings(model="mxbai-embed-large")
 
 SOURCE_DIRECTORIES = [
     "./data",
-    "./scraped_data",
-    "./pdf_extracted_data",
 ]
-DB_LOCATION = "./seusl_vector_db_v6"
+DB_LOCATION = "./seusl_vector_db_v7"
 FORCE_REINDEX = os.getenv("SEUSL_FORCE_REINDEX", "").strip().lower() in {"1", "true", "yes"}
 
 

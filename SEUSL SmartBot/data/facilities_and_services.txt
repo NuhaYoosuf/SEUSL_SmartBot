@@ -3,14 +3,31 @@ UNIVERSITY FACILITIES, STUDENT LIFE & SERVICES - SOUTH EASTERN UNIVERSITY OF SRI
 
 LIBRARY SERVICES:
 -----------------
-SEUSL has a main university library and a dedicated Science Library.
+SEUSL has a main university library (Dr. A.M.A. Azeez Library) and a dedicated Science Library.
 - Main Library: http://www.seu.ac.lk/library/
 - Science Library (FAS): http://www.seu.ac.lk/library/science_library/
 The library provides physical and digital resources for students and researchers.
+Digital Resources:
+- E-books (Subscribed Taylor & Francis eBooks - Access within SEUSL network)
+- E-books (Shibboleth/Remote Access for off-campus)
+- Library Catalog search (by Title, Author, Subject, ISBN, Series, Call number)
+- E-Repository (SEUIR): http://ir.lib.seu.ac.lk/
+- E-Databases
+Libraries: Main Library, Faculty of Applied Sciences Library
+Opening Hours: Monday-Friday 8:00 AM - 8:00 PM, Saturday 8:00 AM - 5:00 PM. Closed on Sundays and public holidays.
 
 ICT CENTRE:
 -----------
-The ICT Centre provides IT services, computer lab access, internet facilities, and technical support for students and staff.
+The ICT Centre manages the IT infrastructure of the University and provides a range of IT related facilities and services to the staff and the students.
+Services provided:
+- SEU E-Mail (@seu.ac.lk)
+- Web Applications
+- Internet connectivity
+- Wi-Fi coverage across campus
+- IT Security
+- Licensed software
+- IT Labs with computer access
+- Technical support
 Website: http://www.seu.ac.lk/ictcentre/index.php
 
 VIRTUAL LEARNING ENVIRONMENT (VLE):
@@ -31,17 +48,27 @@ Website: http://www.seu.ac.lk/eltu/index.php
 
 STUDENT SUPPORT SERVICES AND WELFARE (SSSW):
 --------------------------------------------
-Provides welfare support, counselling, and services for student wellbeing.
+The main duty of SSS&W is to coordinate student support services and student welfare system by networking Student Services and Registration Division, Service Divisions (i.e. Health Centre, Physical Education Division, Maintenance Division, Security Division and Marshal Unit), Student Counseling System and Career Guidance Unit.
+Director: Dr. ALM. Ayoobkhan
+Email: directorsssw@seu.ac.lk, ayoob@seu.ac.lk
+Phone: +94 67 2255389, +94 77 8684242
 Website: http://www.seu.ac.lk/sssw/index.php
 
 CAREER GUIDANCE UNIT:
 ---------------------
+Career Guidance is an interpersonal process designed to assist individuals with Career Development problems. The Career Guidance Unit was established in 1998 at SEUSL.
+Director: Dr. J.A. Thamboo
+Email: jathamboo@seu.ac.lk
+Phone: +94 67 2255065
+Mobile: +94 766407474
+Vision: Be a center of excellence in producing employable graduates by providing support, guidance and counseling.
 Assists students with:
 - Career planning and counselling
 - Job placement assistance
 - Industrial training coordination
 - Internship opportunities
 - Professional development workshops
+- CV writing and interview preparation
 Website: http://www.seu.ac.lk/careerguidanceunit/index.php
 
 PHYSICAL EDUCATION UNIT:
@@ -60,7 +87,8 @@ SEUSL has hostel facilities for students. The university has Sub-Warden posts fo
 
 RESEARCH AND INNOVATION CENTRE (RIC):
 --------------------------------------
-Supports research activities across the university.
+The Research and Innovation Centre (RIC) was established in 2014. The main objective of the RIC serves as the guidepost for the university to reach its full potential in research and scholarly activity which will enhance Sri Lanka's future economic, social and cultural well-being. The RIC promotes and facilitates leading edge, high-quality basic and applied research and development activities including collaborative and interdisciplinary research at University level.
+University Statistics: 240+ Academics, 4450+ Students, 6 Faculties, 25+ Departments.
 Website: http://www.seu.ac.lk/ric/index.php
 
 STAFF DEVELOPMENT CENTRE (SDC):
@@ -90,6 +118,8 @@ Website: http://www.seu.ac.lk/ubl/index.php
 
 OFFICE OF STRATEGIC PLANNING AND INTERNATIONAL MATTERS (OSPIM):
 ----------------------------------------------------------------
+The Office of Strategic Planning and Implementation Monitoring (OSPIM) is the strategic planning and monitoring wing of the University. It involves in preparations and monitoring the implementations of corporate strategies and actions of the university ensuring maximum consultation and participation of all stakeholders concerned.
+Key Functions: Strategic Plan, Action Plan, Progress Monitoring, Strategic Planning Team.
 Handles international student admissions, partnerships, MoU agreements, and strategic planning.
 Website: http://www.seu.ac.lk/ospim/index.php
 
