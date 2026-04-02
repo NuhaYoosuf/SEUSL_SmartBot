@@ -15,7 +15,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-model = OllamaLLM(model="tinyllama")
+model = OllamaLLM(model="llama3")
 
 TEMPLATES = {
     "en": """
