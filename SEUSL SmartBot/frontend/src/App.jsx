@@ -11,6 +11,12 @@ const UI_TEXT = {
     footerNote: "Powered by LLaMA 3 + RAG — SEUSL Knowledge Base",
     connectionError: "Unable to connect to the server. Please ensure the backend is running.",
     sourcesLabel: "Sources",
+    historyTitle: "Chat History",
+    noHistory: "No conversations yet",
+    deleteAll: "Clear All",
+    today: "Today",
+    yesterday: "Yesterday",
+    older: "Older",
     welcomeCards: [
       { icon: "🏛️", title: "University Info", desc: "Faculties, departments & programs" },
       { icon: "📋", title: "Admissions", desc: "How to apply & requirements" },
@@ -35,6 +41,12 @@ const UI_TEXT = {
     footerNote: "LLaMA 3 + RAG — SEUSL தரவுத்தளம்",
     connectionError: "சேவையக இணைப்புப் பிழை. Backend சேவையகம் இயங்குகிறதா என்பதை உறுதிப்படுத்தவும்.",
     sourcesLabel: "மூலங்கள்",
+    historyTitle: "உரையாடல் வரலாறு",
+    noHistory: "இதுவரை உரையாடல்கள் இல்லை",
+    deleteAll: "அனைத்தையும் அழி",
+    today: "இன்று",
+    yesterday: "நேற்று",
+    older: "பழையவை",
     welcomeCards: [
       { icon: "🏛️", title: "பல்கலைக்கழக தகவல்", desc: "பீடங்கள், துறைகள் & நிகழ்ச்சிகள்" },
       { icon: "📋", title: "மாணவர் அனுமதி", desc: "விண்ணப்பிக்கும் முறை & தேவைகள்" },
@@ -142,6 +154,84 @@ function WelcomeScreen({ t, onQuickReply, loading }) {
   )
 }
 
+// ── localStorage helpers ──
+const HISTORY_KEY = 'seusl_chat_history'
+
+function loadHistory() {
+  try {
+    return JSON.parse(localStorage.getItem(HISTORY_KEY)) || []
+  } catch { return [] }
+}
+function saveHistory(history) {
+  localStorage.setItem(HISTORY_KEY, JSON.stringify(history))
+}
+
+function getDateGroup(timestamp, t) {
+  const d = new Date(timestamp)
+  const now = new Date()
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate())
+  const yesterday = new Date(today); yesterday.setDate(yesterday.getDate() - 1)
+  if (d >= today) return t.today
+  if (d >= yesterday) return t.yesterday
+  return t.older
+}
+
+// ── Sidebar component ──
+function Sidebar({ open, onClose, history, onSelect, onDelete, onDeleteAll, t }) {
+  // group by date
+  const grouped = {}
+  history.forEach(entry => {
+    const group = getDateGroup(entry.createdAt, t)
+    if (!grouped[group]) grouped[group] = []
+    grouped[group].push(entry)
+  })
+  const groupOrder = [t.today, t.yesterday, t.older]
+
+  return (
+    <>
+      <div className={`sidebar-overlay${open ? ' visible' : ''}`} onClick={onClose} />
+      <aside className={`sidebar${open ? ' open' : ''}`}>
+        <div className="sidebar-header">
+          <h2 className="sidebar-title">{t.historyTitle}</h2>
+          <button className="sidebar-close" onClick={onClose}>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" />
+            </svg>
+          </button>
+        </div>
+
+        {history.length === 0 ? (
+          <div className="sidebar-empty">
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+            <p>{t.noHistory}</p>
+          </div>
+        ) : (
+          <div className="sidebar-list">
+            {groupOrder.map(group => grouped[group] && (
+              <div key={group} className="sidebar-group">
+                <span className="sidebar-group-label">{group}</span>
+                {grouped[group].map(entry => (
+                  <button key={entry.sessionId} className="sidebar-item" onClick={() => { onSelect(entry); onClose() }}>
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+                    <div className="sidebar-item-content">
+                      <span className="sidebar-item-title">{entry.title}</span>
+                      <span className="sidebar-item-time">{new Date(entry.createdAt).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</span>
+                    </div>
+                    <button className="sidebar-item-delete" onClick={e => { e.stopPropagation(); onDelete(entry.sessionId) }}>
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>
+                    </button>
+                  </button>
+                ))}
+              </div>
+            ))}
+            <button className="sidebar-clear-all" onClick={onDeleteAll}>{t.deleteAll}</button>
+          </div>
+        )}
+      </aside>
+    </>
+  )
+}
+
 function App() {
   const [language, setLanguage] = useState('en')
   const t = UI_TEXT[language]
@@ -149,15 +239,71 @@ function App() {
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
   const [darkMode, setDarkMode] = useState(false)
+  const [sessionId, setSessionId] = useState(() => crypto.randomUUID())
+  const [sidebarOpen, setSidebarOpen] = useState(false)
+  const [chatHistory, setChatHistory] = useState(loadHistory)
   const bottomRef = useRef(null)
   const inputRef = useRef(null)
 
   const hasMessages = messages.length > 0
 
+  // Persist history whenever it changes
+  useEffect(() => { saveHistory(chatHistory) }, [chatHistory])
+
+  // Save current conversation to history (if it has messages)
+  const saveCurrentChat = () => {
+    if (messages.length === 0) return
+    const firstUserMsg = messages.find(m => m.role === 'user')
+    const title = firstUserMsg ? firstUserMsg.text.slice(0, 60) : 'New conversation'
+    setChatHistory(prev => {
+      const existing = prev.findIndex(h => h.sessionId === sessionId)
+      const entry = {
+        sessionId,
+        title,
+        createdAt: existing >= 0 ? prev[existing].createdAt : Date.now(),
+        updatedAt: Date.now(),
+        messages,
+        language,
+      }
+      if (existing >= 0) {
+        const updated = [...prev]
+        updated[existing] = entry
+        return updated
+      }
+      return [entry, ...prev]
+    })
+  }
+
+  // Auto-save current conversation when messages change (after first message)
+  useEffect(() => {
+    if (messages.length > 0) saveCurrentChat()
+  }, [messages])
+
+  const loadChat = (entry) => {
+    setMessages(entry.messages)
+    setSessionId(entry.sessionId)
+    setLanguage(entry.language || 'en')
+  }
+
+  const deleteChat = (sid) => {
+    setChatHistory(prev => prev.filter(h => h.sessionId !== sid))
+    if (sid === sessionId) {
+      setMessages([])
+      setSessionId(crypto.randomUUID())
+    }
+  }
+
+  const deleteAllHistory = () => {
+    setChatHistory([])
+    setMessages([])
+    setSessionId(crypto.randomUUID())
+  }
+
   const toggleLanguage = () => {
     const newLang = language === 'en' ? 'ta' : 'en'
     setLanguage(newLang)
     setMessages([])
+    setSessionId(crypto.randomUUID())
   }
 
   useEffect(() => {
@@ -177,9 +323,10 @@ function App() {
       const res = await fetch('http://localhost:8000/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: q, language })
+        body: JSON.stringify({ message: q, language, session_id: sessionId })
       })
       const data = await res.json()
+      if (data.session_id) setSessionId(data.session_id)
       setMessages(prev => [...prev, {
         id: Date.now() + 1,
         role: 'bot',
@@ -202,12 +349,28 @@ function App() {
 
   const clearChat = () => {
     setMessages([])
+    setSessionId(crypto.randomUUID())
   }
 
   return (
     <div className={`app${darkMode ? ' dark' : ''}`}>
+      <Sidebar
+        open={sidebarOpen}
+        onClose={() => setSidebarOpen(false)}
+        history={chatHistory}
+        onSelect={loadChat}
+        onDelete={deleteChat}
+        onDeleteAll={deleteAllHistory}
+        t={t}
+      />
+
       <header className="header">
         <div className="header-left">
+          <button className="header-btn" onClick={() => setSidebarOpen(true)} title="Chat history">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="3" y1="6" x2="21" y2="6" /><line x1="3" y1="12" x2="21" y2="12" /><line x1="3" y1="18" x2="21" y2="18" />
+            </svg>
+          </button>
           <div className="header-logo">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <path d="M22 10v6M2 10l10-5 10 5-10 5z" />

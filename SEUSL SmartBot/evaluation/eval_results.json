@@ -1,0 +1,27 @@
+{
+  "summary": {
+    "total_questions": 140,
+    "completed": 1
+  },
+  "results": [
+    {
+      "id": 1,
+      "category": "general",
+      "question": "Where is South Eastern University of Sri Lanka located?",
+      "ground_truth": "SEUSL is located at University Park, Oluvil, #32360, Sri Lanka. The permanent campus is situated on 220 acres of land in Oluvil.",
+      "response": "The South Eastern University of Sri Lanka (SEUSL) is located at University Park, Oluvil, #32360, Sri Lanka. The university's permanent campus is situated in Oluvil, where 220 acres of land has been acquired.",
+      "sources": [
+        "faculties.txt",
+        "staff_and_administration.txt",
+        "university_overview.txt",
+        "student_faq_guide.txt",
+        "f aq.txt"
+      ],
+      "metrics": {
+        "bleu": 0.4208,
+        "rouge_l": 0.6786,
+        "exact_match": false
+      }
+    }
+  ]
+}
