@@ -25,6 +25,7 @@
   },
   {
     "id": 4,
+<<<<<<< HEAD
     "question": "Who is the Vice Chancellor of SEUSL?",
     "ground_truth": "The current Vice Chancellor of SEUSL is Prof. (Dr.) S. M. Junaideen. He can be reached at vcseu@seu.ac.lk or by phone at +94 67 2255138.",
     "category": "administration",
@@ -73,6 +74,8 @@
   },
   {
     "id": 10,
+=======
+>>>>>>> 29a74b3dc1dd3f3b6dc04bb4fc2b2b1e619f4646
     "question": "Why was SEUSL established?",
     "ground_truth": "SEUSL was established to accommodate Muslim staff and students displaced from the University of Jaffna and later the Eastern University during civil unrest in the North and East of Sri Lanka.",
     "category": "general",
@@ -80,7 +83,67 @@
     "question_type": "factual_direct"
   },
   {
+    "id": 5,
+    "question": "What is the official website of SEUSL?",
+    "ground_truth": "The official website of SEUSL is https://www.seu.ac.lk/",
+    "category": "general"
+  },
+  {
+    "id": 6,
+    "question": "How many faculties does SEUSL have?",
+    "ground_truth": "SEUSL has 6 faculties: Faculty of Arts and Culture (FAC), Faculty of Management and Commerce (FMC), Faculty of Applied Sciences (FAS), Faculty of Islamic Studies & Arabic Language (FIA), Faculty of Engineering (FE), and Faculty of Technology (FT).",
+    "category": "general"
+  },
+  {
+    "id": 7,
+    "question": "With how many students did SEUSL begin?",
+    "ground_truth": "The University College was ceremonially inaugurated with a batch of 33 students in October 1995.",
+    "category": "general"
+  },
+  {
+    "id": 8,
+    "question": "What social media pages does SEUSL have?",
+    "ground_truth": "SEUSL has a Facebook page (https://www.facebook.com/pages/South-Eastern-University-of-Sri-Lanka/992110304136392), Twitter (https://twitter.com/SEUSL_Oluvil), YouTube (https://www.youtube.com/channel/UCUtXxXZnUq3OxnpHmCc8heg), and LinkedIn (https://lk.linkedin.com/in/seusl).",
+    "category": "general"
+  },
+  {
+    "id": 9,
+    "question": "How many students and academics does SEUSL currently have?",
+    "ground_truth": "SEUSL has 240+ academics, 4450+ students, 6 faculties, and 25+ departments.",
+    "category": "general"
+  },
+  {
+    "id": 10,
+    "question": "What are the original two faculties of SEUSL?",
+    "ground_truth": "The University started with two Faculties — Faculty of Arts & Culture and Faculty of Management and Commerce — at Addalaichenai, sharing the premises of the Government Teachers' Training College.",
+    "category": "general"
+  },
+  {
     "id": 11,
+    "question": "Who is the Vice Chancellor of SEUSL?",
+    "ground_truth": "The current Vice Chancellor of SEUSL is Prof. (Dr.) S. M. Junaideen. He can be reached at vcseu@seu.ac.lk or by phone at +94 67 2255138.",
+    "category": "administration"
+  },
+  {
+    "id": 12,
+    "question": "Who is the Chancellor of SEUSL?",
+    "ground_truth": "The Chancellor of South Eastern University of Sri Lanka is Dr. Faisz Musthapha, PC.",
+    "category": "administration"
+  },
+  {
+    "id": 13,
+    "question": "Who was the founder Vice Chancellor of SEUSL?",
+    "ground_truth": "The founder Vice Chancellor of SEUSL was Prof. MLA. Cader, who served from 1996.05.15 to 2003.05.11. He was also the Director of South Eastern University College from 1995.10.12 to 1996.05.14.",
+    "category": "administration"
+  },
+  {
+    "id": 14,
+    "question": "Who was the Vice Chancellor before Prof. Junaideen?",
+    "ground_truth": "The Vice Chancellor before Prof. Junaideen was Prof. MMM. Najim, who served from 2015.06.22 to 2018.06.18 and again from 2018.08.10 to 2021.08.08.",
+    "category": "administration"
+  },
+  {
+    "id": 15,
     "question": "Who is the Dean of the Faculty of Technology?",
     "ground_truth": "The Dean of the Faculty of Technology (FT) is Dr. U.L. Abdul Majeed. Email: ulmajeed@seu.ac.lk, Phone: +94 67 2052818, Mobile: +94 77 3121350.",
     "category": "administration",
@@ -88,7 +151,7 @@
     "question_type": "factual_direct"
   },
   {
-    "id": 12,
+    "id": 16,
     "question": "Who is the Dean of the Faculty of Arts and Culture?",
     "ground_truth": "The Dean of the Faculty of Arts and Culture (FAC) is Prof. (Dr.) MM. Fazil. Email: fazrasm@seu.ac.lk, Phone: +94 67 2255182.",
     "category": "administration",
@@ -96,7 +159,7 @@
     "question_type": "factual_direct"
   },
   {
-    "id": 13,
+    "id": 17,
     "question": "Who is the Dean of the Faculty of Management and Commerce?",
     "ground_truth": "The Dean of the Faculty of Management and Commerce (FMC) is Prof. AMM. Mustafa. Email: amustafa@seu.ac.lk, Mobile: 076-5762040.",
     "category": "administration",
@@ -104,7 +167,7 @@
     "question_type": "factual_direct"
   },
   {
-    "id": 14,
+    "id": 18,
     "question": "Who is the Dean of the Faculty of Applied Sciences?",
     "ground_truth": "The Dean of the Faculty of Applied Sciences (FAS) is Prof. HMM Naleer. Mobile: +94 760180102, Email: hmmnaleer@seu.ac.lk.",
     "category": "administration",
@@ -112,7 +175,7 @@
     "question_type": "factual_direct"
   },
   {
-    "id": 15,
+    "id": 19,
     "question": "Who is the Dean of the Faculty of Islamic Studies and Arabic Language?",
     "ground_truth": "The Dean of the Faculty of Islamic Studies and Arabic Language (FIA) is Ash Sheikh. MHA. Munas. Email: munas@seu.ac.lk, Mobile: +94 77 2226131.",
     "category": "administration",
@@ -120,7 +183,91 @@
     "question_type": "factual_direct"
   },
   {
-    "id": 16,
+    "id": 20,
+    "question": "Who is the Head of the ICT Department in the Faculty of Technology?",
+    "ground_truth": "The Head of the Department of Information and Communication Technology (ICT) in the Faculty of Technology is Mr. RK. Ahmadh Rifai Kariapper, Senior Lecturer in ICT.",
+    "category": "administration"
+  },
+  {
+    "id": 21,
+    "question": "Who is the Head of the BST Department in the Faculty of Technology?",
+    "ground_truth": "The Head of the Department of Biosystems Technology (BST) in the Faculty of Technology is Dr. Muneeb M. Musthafa, Senior Lecturer in BST.",
+    "category": "administration"
+  },
+  {
+    "id": 22,
+    "question": "Who is the Head of the Department of Computer Science in FAS?",
+    "ground_truth": "The Head of the Department of Computer Science in the Faculty of Applied Sciences (FAS) is Mr. AL Hanees. Email: alhanees@seu.ac.lk, Contact: +94 760123729.",
+    "category": "administration"
+  },
+  {
+    "id": 23,
+    "question": "Who is the Head of the Department of Mathematical Sciences in FAS?",
+    "ground_truth": "The Head of the Department of Mathematical Sciences in FAS is Dr. M.C. Alibuhtto. Email: mcabuhtto@seu.ac.lk, Contact: +94 776201677 / +94 672260467.",
+    "category": "administration"
+  },
+  {
+    "id": 24,
+    "question": "Who is the Head of the Department of Biological Sciences in FAS?",
+    "ground_truth": "The Head of the Department of Biological Sciences in FAS is Mr. AM Riyas Ahamed. Email: riyasahame@yahoo.co.uk, Contact: +94 776009200.",
+    "category": "administration"
+  },
+  {
+    "id": 25,
+    "question": "Who is the Head of the Department of Chemical Sciences in FAS?",
+    "ground_truth": "The Head of the Department of Chemical Sciences in FAS is Mr. MF Nawas. Email: mfnawas@seu.ac.lk, Contact: +94 777900946.",
+    "category": "administration"
+  },
+  {
+    "id": 26,
+    "question": "Who is the Head of the Department of Physical Sciences in FAS?",
+    "ground_truth": "The Head of the Department of Physical Sciences in FAS is Dr. T. Jaseetharan. Email: jaseetharan@seu.ac.lk, Contact: +94 772852827.",
+    "category": "administration"
+  },
+  {
+    "id": 27,
+    "question": "Who is the Head of the Department of Islamic Studies?",
+    "ground_truth": "The Head of the Department of Islamic Studies in FIA is Prof. SMM. Nafees, Senior Lecturer in Islamic Law.",
+    "category": "administration"
+  },
+  {
+    "id": 28,
+    "question": "Who is the Head of the Department of Arabic Language?",
+    "ground_truth": "The Head of the Department of Arabic Language in FIA is Dr. AM. Razick, Senior Lecturer in Arabic.",
+    "category": "administration"
+  },
+  {
+    "id": 29,
+    "question": "What are the divisions under the Registrar's office?",
+    "ground_truth": "The Registrar's office has divisions including: Administration, Academic Establishment, Non Academic Establishment, Examination, Staff & Students Welfare, Academic and Students Affairs, Capital Works & Planning, Legal and Documentations, Internal Audit, Works and Maintenance, Landscape, Security Services, and Students Accommodations.",
+    "category": "administration"
+  },
+  {
+    "id": 30,
+    "question": "What is the contact number of SEUSL?",
+    "ground_truth": "The general contact numbers of SEUSL are +94 67 2255062, +94 67 2255063, and +94 67 2255064. The fax number is +94 67 2255217.",
+    "category": "contact"
+  },
+  {
+    "id": 31,
+    "question": "What is the email address of the Registrar's office?",
+    "ground_truth": "The Registrar's office email is registrar@seu.ac.lk and the phone number is +94 67 2255168.",
+    "category": "contact"
+  },
+  {
+    "id": 32,
+    "question": "What is the Vice Chancellor's email?",
+    "ground_truth": "The Vice Chancellor's email is vcseu@seu.ac.lk and the phone number is +94 67 2255138.",
+    "category": "contact"
+  },
+  {
+    "id": 33,
+    "question": "What is the address of the Registrar's office?",
+    "ground_truth": "The Registrar's office address is: South Eastern University of Sri Lanka, P.O.Box - 01, University Park, Oluvil, #32280, Sri Lanka.",
+    "category": "contact"
+  },
+  {
+    "id": 34,
     "question": "What departments are in the Faculty of Applied Sciences?",
     "ground_truth": "The Faculty of Applied Sciences (FAS) has 5 departments: Department of Biological Sciences, Department of Chemical Sciences, Department of Computer Science, Department of Mathematical Sciences, and Department of Physical Sciences.",
     "category": "faculties",
@@ -128,7 +275,7 @@
     "question_type": "factual_direct"
   },
   {
-    "id": 17,
+    "id": 35,
     "question": "What departments are in the Faculty of Arts and Culture?",
     "ground_truth": "The Faculty of Arts and Culture (FAC) has 8 departments: Department of Social Sciences, Department of Languages, Department of Geography, Department of Political Science, Department of Economics and Statistics, Department of English Language Teaching (DELT), Department of Sociology, and Department of Information Technology.",
     "category": "faculties",
@@ -136,7 +283,7 @@
     "question_type": "factual_direct"
   },
   {
-    "id": 18,
+    "id": 36,
     "question": "What departments are in the Faculty of Management and Commerce?",
     "ground_truth": "The Faculty of Management and Commerce (FMC) has 4 departments: Department of Accountancy and Finance, Department of Management, Department of Management and IT (MIT), and Department of Marketing Management.",
     "category": "faculties",
@@ -144,7 +291,7 @@
     "question_type": "factual_direct"
   },
   {
-    "id": 19,
+    "id": 37,
     "question": "What departments are in the Faculty of Technology?",
     "ground_truth": "The Faculty of Technology (FT) has 2 departments: Department of Biosystems Technology (BST) and Department of Information and Communication Technology (ICT).",
     "category": "faculties",
@@ -152,6 +299,7 @@
     "question_type": "factual_direct"
   },
   {
+<<<<<<< HEAD
     "id": 20,
     "question": "What degree programs does the Faculty of Applied Sciences offer?",
     "ground_truth": "The Faculty of Applied Sciences offers B.Sc. in Biological Sciences, B.Sc. in Chemical Sciences, B.Sc. in Computer Science, B.Sc. in Mathematical Sciences, and B.Sc. in Physical Sciences. It also offers Diploma in Computer Technology (DCT) and Postgraduate Diploma in Applied Statistics (PGDAS).",
@@ -318,9 +466,15 @@
     "category": "faculties",
     "difficulty": "easy",
     "question_type": "factual_direct"
+=======
+    "id": 38,
+    "question": "What departments are in the Faculty of Islamic Studies and Arabic Language?",
+    "ground_truth": "The Faculty of Islamic Studies and Arabic Language (FIA) has 3 departments: Department of Islamic Studies, Department of Arabic Language, and Interdisciplinary Course Unit.",
+    "category": "faculties"
+>>>>>>> 29a74b3dc1dd3f3b6dc04bb4fc2b2b1e619f4646
   },
   {
-    "id": 41,
+    "id": 39,
     "question": "When was the Faculty of Applied Sciences established?",
     "ground_truth": "The Faculty of Applied Sciences was established in 1997 at Sammanthurai.",
     "category": "faculties",
@@ -328,7 +482,20 @@
     "question_type": "factual_direct"
   },
   {
+    "id": 40,
+    "question": "When was the Faculty of Islamic Studies and Arabic Language established?",
+    "ground_truth": "The Faculty of Islamic Studies and Arabic Language (FIA) was established in October 2005 with the first batch of 50 students for the Academic Year 2005/2006.",
+    "category": "faculties"
+  },
+  {
+    "id": 41,
+    "question": "What is unique about the Faculty of Islamic Studies and Arabic Language?",
+    "ground_truth": "The Faculty of Islamic Studies and Arabic Language (FIA) is the ONLY faculty of this nature in any university in Sri Lanka.",
+    "category": "faculties"
+  },
+  {
     "id": 42,
+<<<<<<< HEAD
     "question": "What are the original faculties of SEUSL?",
     "ground_truth": "The university started with two faculties — Faculty of Arts & Culture and Faculty of Management and Commerce — at Addalaichenai, sharing the premises of the Government Teachers' Training College. They moved to the permanent campus at Oluvil in May 1998.",
     "category": "faculties",
@@ -338,13 +505,118 @@
   {
     "id": 43,
     "question": "What is an End Semester Examination (ESE)?",
+=======
+    "question": "What is the mission of the Faculty of Management and Commerce?",
+    "ground_truth": "The FMC mission is to provide a quality education in business studies which blends the best of relevant theory and practice with an innovative approach to teaching, learning and research giving due consideration to the changing environment, the real demands of business world, and the contemporary development needs of the South Eastern Region and the country as a whole.",
+    "category": "faculties"
+  },
+  {
+    "id": 43,
+    "question": "What is the mission of the Faculty of Arts and Culture?",
+    "ground_truth": "The FAC mission is to produce high quality graduates with analytical mind, research capabilities, leadership quality, managerial skills and ethical and moral values by creating a conducive environment to adopt innovative teaching, learning and research to meet the fast changing needs of the society with dedication and commitment of competent academic and supportive staff.",
+    "category": "faculties"
+  },
+  {
+    "id": 44,
+    "question": "What is the vision of the Faculty of Islamic Studies and Arabic Language?",
+    "ground_truth": "The vision of FIA is to be a leading centre for the integration of Islamic Studies and Arabic Language.",
+    "category": "faculties"
+  },
+  {
+    "id": 45,
+    "question": "What degree programs does the Faculty of Applied Sciences offer?",
+    "ground_truth": "The Faculty of Applied Sciences offers B.Sc. in Biological Sciences, B.Sc. in Chemical Sciences, B.Sc. in Computer Science, B.Sc. in Mathematical Sciences, and B.Sc. in Physical Sciences. It also offers Diploma in Computer Technology (DCT), Postgraduate Diploma in Applied Statistics (PGDAS), MPhil and PhD by Research.",
+    "category": "programs"
+  },
+  {
+    "id": 46,
+    "question": "What degree programs does the Faculty of Technology offer?",
+    "ground_truth": "The Faculty of Technology offers B.Sc. in Biosystems Technology and B.Sc. in Information and Communication Technology (ICT). It also offers MPhil in Biosystems Technology by Research, PhD in Biosystems Technology by Research, and Short-Term Training Programmes by the ICT Department.",
+    "category": "programs"
+  },
+  {
+    "id": 47,
+    "question": "What degree programs does the Faculty of Arts and Culture offer?",
+    "ground_truth": "The Faculty of Arts and Culture offers the Bachelor of Arts (BA) degree program. It also offers Diploma in English, Certificate in Human Rights, and Short Course in Geo-informatics.",
+    "category": "programs"
+  },
+  {
+    "id": 48,
+    "question": "What degree programs does the Faculty of Management and Commerce offer?",
+    "ground_truth": "The Faculty of Management and Commerce offers Bachelor of Business Administration (BBA), Bachelor of Commerce (B.Com), and Bachelor of Science in Management and Information Technology. Postgraduate programs include PGD, MPhil by Research, and PhD by Research.",
+    "category": "programs"
+  },
+  {
+    "id": 49,
+    "question": "What degree programs does the Faculty of Islamic Studies and Arabic Language offer?",
+    "ground_truth": "The Faculty of Islamic Studies and Arabic Language offers Bachelor of Arts in Islamic Studies and Bachelor of Arts in Arabic Language. It also offers Diploma in Islamic Studies and Diploma in Arabic Language.",
+    "category": "programs"
+  },
+  {
+    "id": 50,
+    "question": "Does SEUSL offer postgraduate programs?",
+    "ground_truth": "Yes, SEUSL offers postgraduate programs including MPhil (Master of Philosophy) by Research, PhD (Doctor of Philosophy) by Research, and Postgraduate Diploma programs through the Postgraduate Units of the respective faculties (FMC, FAC, FAS, FT).",
+    "category": "programs"
+  },
+  {
+    "id": 51,
+    "question": "What is the Diploma in Computer Technology (DCT)?",
+    "ground_truth": "The Diploma in Computer Technology (DCT) is a diploma program offered by the Faculty of Applied Sciences (FAS). Applications for the 2026 intake are open, and the application form is available at https://www.seu.ac.lk/fas/assets/img/DCT/Application2026.doc.",
+    "category": "programs"
+  },
+  {
+    "id": 52,
+    "question": "What is the Postgraduate Diploma in Applied Statistics?",
+    "ground_truth": "The Postgraduate Diploma in Applied Statistics (PGDAS) is a postgraduate program offered by the Faculty of Applied Sciences (FAS). The 2026 intake is open with the application deadline extended to 28/02/2026. Application form: https://www.seu.ac.lk/fas/assets/img/PGDIP/PGDASApplication2026.doc.",
+    "category": "programs"
+  },
+  {
+    "id": 53,
+    "question": "What is the B.Sc. in Information and Communication Technology about?",
+    "ground_truth": "The B.Sc. in ICT offered by the Faculty of Technology covers software development, networking, database management, cybersecurity, and multimedia. The Department of ICT also offers Short-Term Training Programmes (STTP) for external candidates.",
+    "category": "programs"
+  },
+  {
+    "id": 54,
+    "question": "What is the B.Sc. in Biosystems Technology about?",
+    "ground_truth": "The B.Sc. in Biosystems Technology offered by the Faculty of Technology covers agricultural technology, bioprocessing, environmental technology, and food technology. The department also offers MPhil and PhD in Biosystems Technology by Research.",
+    "category": "programs"
+  },
+  {
+    "id": 55,
+    "question": "How can I apply to become a student at SEUSL?",
+    "ground_truth": "Undergraduate admissions are handled by the University Grants Commission (UGC) of Sri Lanka. Students apply through UGC after receiving their G.C.E. Advanced Level (A/L) results. For postgraduate programs, applications are submitted directly to the respective faculty's postgraduate unit. Contact the Registrar's office at registrar@seu.ac.lk or +94 67 2255168.",
+    "category": "admissions"
+  },
+  {
+    "id": 56,
+    "question": "What qualifications are needed to enter SEUSL?",
+    "ground_truth": "Admission to undergraduate programs at SEUSL is through the University Grants Commission (UGC) based on results from the G.C.E. Advanced Level (A/L) examination. Students are admitted based on their A/L results and the UGC's national admissions policy.",
+    "category": "admissions"
+  },
+  {
+    "id": 57,
+    "question": "Does SEUSL accept foreign students?",
+    "ground_truth": "Yes, SEUSL accepts foreign students. Contact the Office of Strategic Planning and International Matters (OSPIM) for information: http://www.seu.ac.lk/ospim/index.php.",
+    "category": "admissions"
+  },
+  {
+    "id": 58,
+    "question": "What is the medium of instruction at SEUSL?",
+    "ground_truth": "The medium of instruction varies by faculty. English is used in the Faculty of Applied Sciences, Faculty of Engineering, and Faculty of Technology. Tamil and English are used in the Faculty of Arts and Culture and Faculty of Management and Commerce. Arabic is used in the Faculty of Islamic Studies and Arabic Language.",
+    "category": "academics"
+  },
+  {
+    "id": 59,
+    "question": "What is End Semester Examination (ESE)?",
+>>>>>>> 29a74b3dc1dd3f3b6dc04bb4fc2b2b1e619f4646
     "ground_truth": "End Semester Examinations are formal written examinations held at the end of each semester. They form a major component of student assessment for each course unit.",
     "category": "academics",
     "difficulty": "easy",
     "question_type": "definition"
   },
   {
-    "id": 44,
+    "id": 60,
     "question": "What is Continuous Assessment (CA)?",
     "ground_truth": "Continuous Assessment (CA) refers to ongoing evaluation throughout the semester through assignments, practicals, quizzes, mid-semester tests, presentations, and other in-course activities. CA results are combined with ESE results to determine final grades.",
     "category": "academics",
@@ -352,6 +624,7 @@
     "question_type": "definition"
   },
   {
+<<<<<<< HEAD
     "id": 45,
     "question": "Does SEUSL offer diploma programs?",
     "ground_truth": "Yes, SEUSL offers various diploma programs including Diploma in English (FAC), Diploma in Computer Technology/DCT (FAS), Postgraduate Diploma in Applied Statistics (FAS), Diploma programs in Islamic Studies and Arabic Language (FIA), and Short-Term Training Programmes in ICT (FT).",
@@ -574,9 +847,82 @@
     "category": "academics",
     "difficulty": "medium",
     "question_type": "factual_direct"
+=======
+    "id": 61,
+    "question": "What is the course structure at SEUSL?",
+    "ground_truth": "Degree programmes at SEUSL are structured on a credit-based system with semesters. Students must complete a required number of credits through a combination of core courses, electives, and practical work to be eligible for their degree.",
+    "category": "academics"
+>>>>>>> 29a74b3dc1dd3f3b6dc04bb4fc2b2b1e619f4646
+  },
+  {
+    "id": 62,
+    "question": "Do I need to be fluent in English to study at SEUSL?",
+    "ground_truth": "A good working knowledge of English is helpful, especially for faculties where English is the medium of instruction (FAS, FE, FT). SEUSL has an English Language Teaching Unit (ELTU) to support students with English language skills.",
+    "category": "academics"
+  },
+  {
+    "id": 63,
+    "question": "Does SEUSL have a library?",
+    "ground_truth": "Yes, SEUSL has a main university library (Dr. A.M.A. Azeez Library) and a dedicated Science Library. The main library website is http://www.seu.ac.lk/library/ and the Science Library is at http://www.seu.ac.lk/library/science_library/. The library provides physical and digital resources for students and researchers.",
+    "category": "facilities"
+  },
+  {
+    "id": 64,
+    "question": "What are the library opening hours?",
+    "ground_truth": "The library opening hours are Monday to Friday 8:00 AM to 8:00 PM, Saturday 8:00 AM to 5:00 PM. The library is closed on Sundays and public holidays.",
+    "category": "facilities"
+  },
+  {
+    "id": 65,
+    "question": "What e-book resources does the SEUSL library provide?",
+    "ground_truth": "The library provides e-books from subscribed Taylor & Francis eBooks (accessible within the SEUSL network), Shibboleth/Remote Access for off-campus access, Library Catalog search, E-Repository (SEUIR) at http://ir.lib.seu.ac.lk/, and E-Databases.",
+    "category": "facilities"
+  },
+  {
+    "id": 66,
+    "question": "What is the student web portal?",
+    "ground_truth": "Students can access the student web portal at http://st.seu.ac.lk/ and the Virtual Learning Environment (VLE) at http://vle.seu.ac.lk/.",
+    "category": "facilities"
+  },
+  {
+    "id": 67,
+    "question": "What is the Virtual Learning Environment (VLE)?",
+    "ground_truth": "SEUSL operates a Virtual Learning Environment (VLE) for online course delivery, assignments, and learning materials. The main VLE is at http://vle.seu.ac.lk/, FAS VLE at https://fasvle.seu.ac.lk/, and FT VLE at http://vle.seu.ac.lk/course/index.php?categoryid=137.",
+    "category": "facilities"
+  },
+  {
+    "id": 68,
+    "question": "What is the ICT Centre at SEUSL?",
+    "ground_truth": "The ICT Centre manages the IT infrastructure of the University and provides IT related facilities and services to staff and students, including SEU email (@seu.ac.lk), web applications, internet connectivity, Wi-Fi coverage across campus, IT security, licensed software, IT labs, and technical support. Website: http://www.seu.ac.lk/ictcentre/index.php.",
+    "category": "facilities"
+  },
+  {
+    "id": 69,
+    "question": "What is the Career Guidance Unit?",
+    "ground_truth": "The Career Guidance Unit was established in 1998 at SEUSL. Director: Dr. J.A. Thamboo (Email: jathamboo@seu.ac.lk, Phone: +94 67 2255065). It assists students with career planning, job placement, industrial training, internship opportunities, professional development workshops, and CV writing. Website: http://www.seu.ac.lk/careerguidanceunit/index.php.",
+    "category": "facilities"
+  },
+  {
+    "id": 70,
+    "question": "What is the English Language Teaching Unit (ELTU)?",
+    "ground_truth": "The ELTU supports students in improving English language skills critical for academic success. Website: http://www.seu.ac.lk/eltu/index.php.",
+    "category": "facilities"
+  },
+  {
+    "id": 71,
+    "question": "What is OSPIM?",
+    "ground_truth": "OSPIM is the Office of Strategic Planning and International Matters. It is the strategic planning and monitoring wing of the University. It handles international student admissions, partnerships, MoU agreements, and strategic planning. Website: http://www.seu.ac.lk/ospim/index.php.",
+    "category": "facilities"
+  },
+  {
+    "id": 72,
+    "question": "What is the Research and Innovation Centre (RIC)?",
+    "ground_truth": "The Research and Innovation Centre (RIC) was established in 2014. It promotes and facilitates high-quality basic and applied research, collaborative and interdisciplinary research at university level. Website: http://www.seu.ac.lk/ric/index.php.",
+    "category": "facilities"
   },
   {
     "id": 73,
+<<<<<<< HEAD
     "question": "What GPA do I need to graduate with First Class honors?",
     "ground_truth": "First Class honors requires a CGPA of 3.7 or above. Second Class Upper requires CGPA 3.3+, Second Class Lower requires CGPA 2.7+. A minimum CGPA of 2.0 is required to progress to the next year.",
     "category": "academics",
@@ -734,9 +1080,129 @@
     "category": "facilities",
     "difficulty": "medium",
     "question_type": "factual_direct"
+=======
+    "question": "What is the Student Support Services and Welfare (SSSW)?",
+    "ground_truth": "The SSSW coordinates student support services and student welfare by networking the Student Services and Registration Division, Service Divisions (Health Centre, Physical Education, Maintenance, Security, Marshal Unit), Student Counseling System, and Career Guidance Unit. Director: Dr. ALM. Ayoobkhan. Email: directorsssw@seu.ac.lk, Phone: +94 67 2255389.",
+    "category": "facilities"
+  },
+  {
+    "id": 74,
+    "question": "Does SEUSL have hostel facilities?",
+    "ground_truth": "Yes, SEUSL has hostel facilities for students. The university has Sub-Warden posts for both male and female student hostels. For accommodation information, contact the university administration or welfare office.",
+    "category": "facilities"
+  },
+  {
+    "id": 75,
+    "question": "What is the Internal Quality Assurance Unit (IQAU)?",
+    "ground_truth": "The Internal Quality Assurance Unit (IQAU) oversees quality standards and accreditation processes at SEUSL. Website: http://www.seu.ac.lk/iqau/.",
+    "category": "facilities"
+  },
+  {
+    "id": 76,
+    "question": "What is CEDPL?",
+    "ground_truth": "CEDPL is the Centre for Extension and Distance and Professional Learning. It offers extension education programs and distance learning. Website: http://www.seu.ac.lk/cedpl/index.php.",
+    "category": "facilities"
+  },
+  {
+    "id": 77,
+    "question": "What is TISC?",
+    "ground_truth": "TISC is the Technology and Innovation Support Centre. It supports technology transfer and intellectual property. Website: http://www.seu.ac.lk/tisc/index.php.",
+    "category": "facilities"
+  },
+  {
+    "id": 78,
+    "question": "What is the UBL Cell?",
+    "ground_truth": "The UBL Cell (University Business Linkage Cell) facilitates collaboration between the university and industry. Website: http://www.seu.ac.lk/ubl/index.php.",
+    "category": "facilities"
+  },
+  {
+    "id": 79,
+    "question": "What is the Staff Development Centre (SDC)?",
+    "ground_truth": "The Staff Development Centre (SDC) handles professional development for academic and non-academic staff at SEUSL. Website: http://www.seu.ac.lk/sdc/index.php.",
+    "category": "facilities"
+  },
+  {
+    "id": 80,
+    "question": "What is the Science Research Centre (SRCFAS)?",
+    "ground_truth": "The Science Research Centre (SRCFAS) is a centre in the Faculty of Applied Sciences that conducts research in biotechnology, environmental science, materials science, physics, and chemistry.",
+    "category": "facilities"
+  },
+  {
+    "id": 81,
+    "question": "What is the Industrial Training Cell (ITC)?",
+    "ground_truth": "The Industrial Training Cell (ITC) was established in 2018 in the Faculty of Applied Sciences. It places students in industries for practical training experience.",
+    "category": "facilities"
+  },
+  {
+    "id": 82,
+    "question": "What is the Centre for Soil and Water Research (CSWR)?",
+    "ground_truth": "The Centre for Soil and Water Research (CSWR) was established in 2004 by Mr. MF Nawas and Mr. EMJM Rizvi in the Faculty of Applied Sciences.",
+    "category": "facilities"
+  },
+  {
+    "id": 83,
+    "question": "What welfare facilities are available for students?",
+    "ground_truth": "SEUSL provides: Student Support Services and Welfare (SSSW), Career Guidance Unit, Physical Education Unit, Library (main and science library), ICT Centre, Virtual Learning Environment (VLE), English Language Teaching Unit (ELTU), hostel accommodation, and University Life activities and clubs.",
+    "category": "facilities"
+  },
+  {
+    "id": 84,
+    "question": "What research journals does the Faculty of Applied Sciences publish?",
+    "ground_truth": "The Faculty of Applied Sciences publishes the Journal of Science (JSC) at http://www.seu.ac.lk/jsc/. It also hosts the Annual Science Research Session (ASRS) and the First International Conference on AI & Data Science (ICAIDS 2025).",
+    "category": "research"
+  },
+  {
+    "id": 85,
+    "question": "What research journals does the Faculty of Arts and Culture publish?",
+    "ground_truth": "The Faculty of Arts and Culture publishes the KALAM International Research Journal, the Pravaham Journal, and the Journal of Social Review (JSR). It also hosts an Annual Research Conference.",
+    "category": "research"
+  },
+  {
+    "id": 86,
+    "question": "What conferences has SEUSL hosted recently?",
+    "ground_truth": "SEUSL recently hosted the First International Conference on AI & Data Science (ICAIDS 2025) organized by FAS, the Annual Science Research Session (ASRS 2025) by FAS, the 11th International Symposium (INTSYMFIA 2026) by FIA, and annual international research conferences hosted by FMC.",
+    "category": "research"
+  },
+  {
+    "id": 87,
+    "question": "What MoU did SEUSL sign recently?",
+    "ground_truth": "SEUSL (Faculty of Management and Commerce) signed a Memorandum of Understanding (MoU) with the Colombo Stock Exchange (CSE) on 16 August 2024 to foster collaboration in education, research, and professional development.",
+    "category": "general"
+>>>>>>> 29a74b3dc1dd3f3b6dc04bb4fc2b2b1e619f4646
+  },
+  {
+    "id": 88,
+    "question": "What is the SEUSL Institutional Repository?",
+    "ground_truth": "The SEUSL Institutional Repository (SEUIR) was established in 2006 and is accessible at http://ir.lib.seu.ac.lk/. It collects and provides open access to institutional research outputs including theses, conference proceedings, journal articles, and books authored by SEUSL academics.",
+    "category": "policies"
+  },
+  {
+    "id": 89,
+    "question": "What types of content are accepted in the SEUSL Institutional Repository?",
+    "ground_truth": "The SEUIR accepts: conference proceedings of SEUSL, thesis and dissertations, journals published by SEUSL, articles authored by SEUSL academics (with copyright clearance), books and book chapters (non-textbooks, case-by-case), datasets, and grey literature such as technical reports and working papers.",
+    "category": "policies"
+  },
+  {
+    "id": 90,
+    "question": "What guidelines and regulations are available for download from SEUSL?",
+    "ground_truth": "Available guidelines include: Guidelines to Supervisors and Invigilators, Regulations Related to Maintain Attendance and Calculation of Percentage Attendance, Regulations Related to Setting, Printing and Evaluation of Examinations, Guideline for Field Trips, Terms of Reference of the Grievance Hearing Committee, and Grievance Application Form. Download page: https://www.seu.ac.lk/guidelines.php.",
+    "category": "policies"
+  },
+  {
+    "id": 91,
+    "question": "What forms are available for download from SEUSL?",
+    "ground_truth": "Downloadable forms from https://www.seu.ac.lk/download.php include: Leave Application Form, Prior Approval Form (OR/OT/01), Official Email Request Form, Application Form (Agrahara Medical Scheme), Guest House Booking Form (GA/G/01), APC Booking Form (GA/G/02), Application for Railway Warrant (GA/G/04), Gate Pass for Returnable Items (GA/G/05), PRN Forms for Capital and Consumable Items, ERSU Repair Request form, and Works Order (SEU/WMD/01).",
+    "category": "downloads"
+  },
+  {
+    "id": 92,
+    "question": "How does a staff member request an official SEUSL email?",
+    "ground_truth": "Staff and students can request an official @seu.ac.lk email by submitting the Official Email Request Form available at https://www.seu.ac.lk/download.php. Students must include their Student Registration Number (e.g., xxxeg23.001@seu.ac.lk).",
+    "category": "downloads"
   },
   {
     "id": 93,
+<<<<<<< HEAD
     "question": "What is the Internal Quality Assurance Unit (IQAU)?",
     "ground_truth": "The Internal Quality Assurance Unit (IQAU) oversees quality standards and accreditation processes at SEUSL. Website: http://www.seu.ac.lk/iqau/",
     "category": "facilities",
@@ -1283,5 +1749,52 @@
     "category": "administration",
     "difficulty": "hard",
     "question_type": "multi_hop"
+=======
+    "question": "What is the AHEAD project at SEUSL?",
+    "ground_truth": "AHEAD stands for Accelerating Higher Education Expansion and Development. It is a funded project at SEUSL. Website: http://www.seu.ac.lk/ahead/.",
+    "category": "general"
+  },
+  {
+    "id": 94,
+    "question": "Where can I find the Faculty of Applied Sciences VLE?",
+    "ground_truth": "The Faculty of Applied Sciences Virtual Learning Environment (VLE) is available at https://fasvle.seu.ac.lk/.",
+    "category": "facilities"
+  },
+  {
+    "id": 95,
+    "question": "What is the Faculty of Technology's website?",
+    "ground_truth": "The Faculty of Technology's website is www.seu.ac.lk/ft/ and can be contacted at +94 67 2052818.",
+    "category": "contact"
+  },
+  {
+    "id": 96,
+    "question": "What is the Faculty of Management and Commerce's contact number?",
+    "ground_truth": "The Faculty of Management and Commerce can be contacted at Phone: +94 67 2255386, Fax: +94 67 2255069.",
+    "category": "contact"
+  },
+  {
+    "id": 97,
+    "question": "What is the FIA contact number?",
+    "ground_truth": "The Faculty of Islamic Studies and Arabic Language (FIA) can be contacted at Phone: +94 67 2255127, Fax: +94 67 2255385.",
+    "category": "contact"
+  },
+  {
+    "id": 98,
+    "question": "Does SEUSL offer Short-Term Training Programmes?",
+    "ground_truth": "Yes, the Department of ICT in the Faculty of Technology offers Short-Term Training Programmes (STTP) for external candidates. Application: https://www.seu.ac.lk/ft/stc.php.",
+    "category": "programs"
+  },
+  {
+    "id": 99,
+    "question": "What is the SEUSL Physical Education Unit?",
+    "ground_truth": "The Physical Education Unit manages sports facilities, university sports teams, and physical education programs at SEUSL. Website: http://www.seu.ac.lk/physicaleducationunit/index.php.",
+    "category": "facilities"
+  },
+  {
+    "id": 100,
+    "question": "What is the 11th International Symposium (INTSYMFIA 2026)?",
+    "ground_truth": "The 11th International Symposium (INTSYMFIA 2026) is hosted by the Faculty of Islamic Studies and Arabic Language (FIA) at SEUSL. It is an international academic event with a call for articles/papers.",
+    "category": "research"
+>>>>>>> 29a74b3dc1dd3f3b6dc04bb4fc2b2b1e619f4646
   }
 ]
