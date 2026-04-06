@@ -1,0 +1,121 @@
+CHUNK_ID: KB-HOSTEL-001
+TOPIC: Hostel Accommodation
+CATEGORY: hostel
+---
+SEUSL provides on-campus hostel accommodation for both male and female students. Sub-Warden posts exist for both male and female hostels. Spaces are limited — priority is given to students who live far from the university, students from low-income families, and first-year students. For accommodation information, contact the university administration, welfare office, or SSSW.
+Student Accommodations Division: http://www.seu.ac.lk/generaladmin/stacc/
+
+Hostel Room Facilities: Basic rooms have a bed, study table, chair, and wardrobe/shelf space. Common facilities include shared bathrooms, toilets, a common room/TV room, and a study hall. Students must bring their own bedding, pillow, towel, and study materials.
+
+Hostel Rules: Curfew for female hostels is usually 10 PM. Rules include no unauthorized visitors in rooms, no cooking inside rooms, no loud music after 10 PM, maintain cleanliness of common areas.
+
+CHUNK_ID: KB-HOSTEL-002
+TOPIC: Off-Campus Accommodation
+CATEGORY: hostel
+---
+Off-campus accommodation options near SEUSL (Oluvil):
+- Basic room: approximately LKR 3,000–6,000/month
+- Room with attached bathroom and internet: approximately LKR 6,000–10,000/month
+- Sharing with another student reduces costs significantly
+Senior students and the university welfare office can help find boarding houses near campus. Kalmunai (5 km north) has more accommodation options.
+
+CHUNK_ID: KB-FIN-001
+TOPIC: University Fees and Free Education
+CATEGORY: finance
+---
+Sri Lanka provides free university education at SEUSL for students admitted through the UGC system — no tuition fees are charged for undergraduate degrees. However, students are required to pay small administrative fees:
+- Registration fee (one-time at the start of the degree)
+- Examination fees per semester
+- Library fees
+- Hostel fees (if residing in university hostel)
+For financial clearance at graduation, visit the Bursar's office in the main administration building.
+
+CHUNK_ID: KB-FIN-002
+TOPIC: Mahapola Scholarship
+CATEGORY: finance
+---
+Mahapola Higher Education Scholarship:
+- Provides a monthly allowance of approximately LKR 5,000–7,500 to eligible undergraduates at state universities
+- Eligibility based on academic merit and financial need
+- Application: Apply through your faculty's student affairs office during the first month of registration
+- This is a national scholarship scheme for Sri Lankan university students
+
+CHUNK_ID: KB-FIN-003
+TOPIC: Bursary Financial Grant
+CATEGORY: finance
+---
+Bursary Financial Grant:
+- A needs-based financial grant from the university for students with proven financial hardship
+- Separate from the Mahapola scholarship; provides additional funds for living expenses, books, etc.
+- Application: Submit with an income declaration signed by your Grama Niladhari (GN officer)
+- Apply through the university's welfare office or student affairs division
+
+CHUNK_ID: KB-FIN-004
+TOPIC: Cost of Living in Oluvil
+CATEGORY: finance
+---
+Estimated monthly student budget in Oluvil (one of the most affordable university towns in Sri Lanka):
+- Accommodation (off-campus): LKR 3,000–8,000
+- Food: LKR 6,000–10,000
+- Transport: LKR 1,000–2,000
+- Stationery and books: LKR 500–2,000
+- Personal expenses: LKR 1,000–3,000
+- Total: approximately LKR 12,000–25,000 per month
+University hostel and subsidized canteen food significantly reduce costs.
+
+CHUNK_ID: KB-LIFE-001
+TOPIC: Orientation Week
+CATEGORY: student_life
+---
+Freshers' orientation week at SEUSL:
+Activities include: campus and faculty tour, Dean and Head of Department welcome address, course registration, hostel room assignment, anti-ragging briefing (mandatory under UGC law), student union and society introductions, and senior student mentoring sessions. Attendance at all orientation activities is compulsory.
+Freshers' Night: Celebratory event organized by second-year students a few weeks after orientation. Features cultural performances, music, welcome speeches, crowning of Freshers' King/Queen, and student skits.
+
+CHUNK_ID: KB-LIFE-002
+TOPIC: Student Clubs and Societies
+CATEGORY: student_life
+---
+SEUSL student clubs and societies include: Computer Society, Science Society, Management Society, Debating Club, Drama Society, Music Circle, Photography Club, Leo Club (community service), Muslim Students Association, Environment Club, and various faculty-specific societies. Students can also join Drama Society and Fine Arts circles for theatrical performances.
+
+CHUNK_ID: KB-LIFE-003
+TOPIC: Campus Environment and Safety
+CATEGORY: student_life
+---
+Oluvil is a small, quiet coastal community — the university campus is its main landmark. The area is generally very safe for students. The campus is predominantly Muslim-friendly: prayer facilities are on campus, the canteen serves halal food, and the academic calendar respects Islamic holidays. Non-Muslim students are fully welcomed; there is a diverse student community. Tamil is the most widely spoken language on and around campus. Basic Tamil phrases are helpful in the community. The campus beach is a short walk away.
+
+CHUNK_ID: KB-LIFE-004
+TOPIC: Industrial Training and Internships
+CATEGORY: career
+---
+Industrial training at SEUSL:
+- Typically takes place in Year 3 or between Year 3 and Year 4
+- Duration: usually 6 months to 1 year
+- The university provides a list of approved companies; students can also find their own placement subject to university approval
+- Coordinated by the Head of Department and the Career Guidance Unit
+- Start searching at least 3–4 months before the IT period begins
+The Faculty of Applied Sciences has a dedicated Industrial Training Cell (ITC) established in 2018.
+
+CHUNK_ID: KB-LIFE-005
+TOPIC: Career Outcomes by Faculty
+CATEGORY: career
+---
+Typical career paths from SEUSL faculties:
+- Faculty of Technology (ICT): Software Engineer, IT Consultant, Network Engineer, Data Analyst
+- Faculty of Technology (BST): Agricultural Technologist, Food Technologist, Environmental Consultant
+- Faculty of Management and Commerce: Business Analyst, Accountant, Bank Officer, Entrepreneur
+- Faculty of Applied Sciences: Chemist, Biologist, Lab Technician, Research Scientist
+- Faculty of Arts and Culture: Teacher, Translator, Public Servant, Journalist
+- Faculty of Islamic Studies and Arabic Language: Religious Scholar, Arabic Translator, Educational Administrator
+Common employers: Government ministries, IT firms, banks, NGOs in the Eastern Province, and companies across Sri Lanka.
+
+CHUNK_ID: KB-LIFE-006
+TOPIC: Study Abroad and Exchange Programs
+CATEGORY: student_life
+---
+SEUSL has international partnerships with universities in India, Malaysia, and other countries for exchange programs and joint research. Erasmus+ (European university exchanges) and scholarships from Japanese, Chinese, and Australian governments are occasionally available. Check the OSPIM/International Affairs Division notice board and website for current opportunities: http://www.seu.ac.lk/ospim/index.php
+
+CHUNK_ID: KB-LIFE-007
+TOPIC: Alumni Network
+CATEGORY: career
+---
+SEUSL has an active alumni association. After graduation, alumni can join for networking, job referrals, and mentoring juniors. During studies, connecting with SEUSL alumni on LinkedIn (search 'South Eastern University of Sri Lanka') can open doors to internships and job opportunities. The FMC has a dedicated FMC Alumni Association.

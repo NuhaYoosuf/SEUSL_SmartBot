@@ -1,0 +1,201 @@
+CHUNK_ID: KB-PROG-001
+TOPIC: Admissions Process
+CATEGORY: admissions
+---
+Undergraduate admissions to SEUSL are handled exclusively by the University Grants Commission (UGC) of Sri Lanka. Students must apply through UGC after receiving G.C.E. Advanced Level (A/L) examination results. Admission is based on A/L results, Z-score calculations, district quotas, and the UGC's national admissions policy. A/L results and Z-score calculations are typically available around May–July each year. Admission letters are sent by UGC followed by SEUSL's Registrar's office. Registration and orientation usually takes place between October and January. International students can contact the OSPIM office: http://www.seu.ac.lk/ospim/index.php. Postgraduate program applications are submitted directly to the respective faculty's postgraduate unit.
+
+CHUNK_ID: KB-PROG-002
+TOPIC: Registration Day Requirements
+CATEGORY: admissions
+---
+Documents required on SEUSL registration day (originals AND photocopies of each):
+1. National Identity Card (NIC)
+2. G.C.E. Advanced Level (A/L) exam results certificate
+3. G.C.E. Ordinary Level (O/L) exam results certificate
+4. Birth certificate
+5. Medical fitness certificate (must be from a government hospital)
+6. Police clearance certificate
+7. 6–8 passport-size photographs
+8. School leaving certificate
+9. UGC admission letter
+Keep extra photocopies of everything. Private clinic medical certificates may not be accepted.
+
+CHUNK_ID: KB-PROG-003
+TOPIC: Undergraduate Degree Programs — Faculty of Arts and Culture (FAC)
+CATEGORY: programs
+---
+Faculty of Arts and Culture (FAC) Undergraduate Programs:
+Main Degree: Bachelor of Arts (BA) — 3 to 4-year program covering humanities, social sciences, languages, and information technology.
+Study areas by department:
+- Social Sciences: sociology, anthropology, social research
+- Languages: foreign and local language studies (Tamil, Sinhala, English)
+- Geography: physical and human geography, geoinformatics (GIS)
+- Political Science: political systems, governance, public policy
+- Economics and Statistics: economic theory, statistical analysis
+- English Language Teaching (DELT): English linguistics, teaching methodology
+- Sociology: social structure, culture, community studies
+- Information Technology: computing, ICT applications in arts context
+
+Short Courses and Diploma Programs:
+- Diploma in English
+- Short Course in Geo-informatics (GIS)
+- Certificate in Human Rights
+
+Medium of instruction: Tamil and English.
+
+CHUNK_ID: KB-PROG-004
+TOPIC: Undergraduate Degree Programs — Faculty of Management and Commerce (FMC)
+CATEGORY: programs
+---
+Faculty of Management and Commerce (FMC) Undergraduate Programs:
+1. Bachelor of Business Administration (BBA)
+2. Bachelor of Commerce (B.Com)
+3. Bachelor of Science in Management and Information Technology
+
+Study areas by department:
+- Accountancy and Finance: financial accounting, auditing, corporate finance
+- Management: HRM, strategic management, organizational behaviour
+- Management and IT (MIT): management information systems, e-business, technology management
+- Marketing Management: marketing strategy, consumer behaviour, digital marketing
+
+Postgraduate Programs:
+- Postgraduate Diploma (PGD)
+- MPhil (Master of Philosophy) by Research
+- PhD (Doctor of Philosophy) by Research
+Entry requirements for postgraduate degrees: https://www.seu.ac.lk/fmc/downloads/mphil_phd/
+
+Medium of instruction: Tamil and English.
+
+CHUNK_ID: KB-PROG-005
+TOPIC: Undergraduate Degree Programs — Faculty of Applied Sciences (FAS)
+CATEGORY: programs
+---
+Faculty of Applied Sciences (FAS) Undergraduate Programs (4-year B.Sc. programs):
+1. B.Sc. in Biological Sciences — cell biology, ecology, microbiology, molecular biology
+2. B.Sc. in Chemical Sciences — analytical, organic, physical, and inorganic chemistry
+3. B.Sc. in Computer Science — programming, algorithms, data structures, AI, networks
+4. B.Sc. in Mathematical Sciences — pure mathematics, applied mathematics, statistics
+5. B.Sc. in Physical Sciences — physics, electronics, material science
+
+Diploma and Postgraduate Programs:
+- Diploma in Computer Technology (DCT) — 2026 intake open. Application: https://www.seu.ac.lk/fas/assets/img/DCT/Application2026.doc
+- Postgraduate Diploma in Applied Statistics (PGDAS) — 2026 intake open. Application: https://www.seu.ac.lk/fas/assets/img/PGDIP/PGDASApplication2026.doc
+- MPhil by Research
+- PhD by Research
+
+Student Handbook 2023/2024: available for download from FAS website.
+Programme of Study: https://www.seu.ac.lk/fas/Programme%20of%20Study.html
+Medium of instruction: English.
+
+CHUNK_ID: KB-PROG-006
+TOPIC: Undergraduate Degree Programs — Faculty of Islamic Studies (FIA)
+CATEGORY: programs
+---
+Faculty of Islamic Studies and Arabic Language (FIA) Programs:
+1. Bachelor of Arts in Islamic Studies — Quran, Hadith, Islamic jurisprudence (Fiqh), theology
+2. Bachelor of Arts in Arabic Language — Arabic linguistics, literature, translation
+
+Diploma Programs (2026 applications open):
+- Diploma in Islamic Studies
+- Diploma in Arabic Language
+
+The Interdisciplinary Course Unit handles cross-faculty course offerings.
+These programs are unique in Sri Lanka — FIA is the only faculty of its kind in any Sri Lankan university.
+Medium of instruction: Arabic.
+
+CHUNK_ID: KB-PROG-007
+TOPIC: Undergraduate Degree Programs — Faculty of Technology (FT)
+CATEGORY: programs
+---
+Faculty of Technology (FT) Programs:
+
+1. B.Sc. in Biosystems Technology (BST Department)
+   Focus: agricultural technology, bioprocessing, environmental technology, food technology
+
+2. B.Sc. in Information and Communication Technology (ICT Department)
+   Focus: software development, networking, database management, cybersecurity, multimedia
+
+Short-Term Training Programmes (STTP) — open to external candidates:
+Application: https://www.seu.ac.lk/ft/stc.php
+
+Postgraduate Programs (Biosystems Technology):
+- MPhil in Biosystems Technology by Research
+- PhD in Biosystems Technology by Research
+
+Programme of Study: http://www.seu.ac.lk/ft/program_of_study.php
+Medium of instruction: English.
+
+CHUNK_ID: KB-PROG-008
+TOPIC: Postgraduate Programs Overview
+CATEGORY: programs
+---
+SEUSL offers the following postgraduate programs across its faculties:
+- MPhil (Master of Philosophy) by Research — offered by FMC, FAC, FAS, FT
+- PhD (Doctor of Philosophy) by Research — offered by FMC, FAC, FAS, FT (BST only)
+- Postgraduate Diploma programs — offered by FAC, FMC, FAS
+- Postgraduate Diploma in Applied Statistics (PGDAS) — offered by FAS
+
+Eligibility generally requires a good undergraduate CGPA (typically 3.0+ for coursework master's, relevant research experience for MPhil/PhD). Applications open once or twice per year. Check the respective faculty's Postgraduate Unit for current intake details. For FMC postgraduate entry requirements: https://www.seu.ac.lk/fmc/downloads/mphil_phd/
+
+CHUNK_ID: KB-PROG-009
+TOPIC: Medium of Instruction by Faculty
+CATEGORY: academics
+---
+Medium of instruction at SEUSL varies by faculty:
+- Faculty of Applied Sciences (FAS): English
+- Faculty of Engineering (FE): English
+- Faculty of Technology (FT): English
+- Faculty of Arts and Culture (FAC): Tamil and English
+- Faculty of Management and Commerce (FMC): Tamil and English
+- Faculty of Islamic Studies and Arabic Language (FIA): Arabic
+
+Tamil is the most widely spoken language on and around campus. A good working knowledge of English is important, especially for FAS, FE, and FT. SEUSL has an English Language Teaching Unit (ELTU) to support students.
+
+CHUNK_ID: KB-PROG-010
+TOPIC: Academic Structure and Credits
+CATEGORY: academics
+---
+SEUSL uses a credit-based semester system. Key academic structure details:
+- Minimum credits to graduate: 120–130 credits
+- Each course carries 2–4 credits; one credit = one hour of lecture per week per semester
+- Students typically take 5–7 courses per semester (15–21 credits per semester)
+- GPA scale: 4.0 system. Grades: A+/A = 4.0, A- = 3.7, B+ = 3.3, B = 3.0, B- = 2.7, C+ = 2.3, C = 2.0, C- = 1.7, D+ = 1.3, D = 1.0, E (Fail) = 0.0
+- Honors classifications: First Class = CGPA 3.7+, Second Class Upper = CGPA 3.3+, Second Class Lower = CGPA 2.7+
+- Minimum CGPA to progress to next year: 2.0
+- Academic probation: issued when CGPA falls below 2.0. Two consecutive semesters below threshold may result in withdrawal from program.
+- Minimum attendance: 80% per course to sit final examination. Students below 80% receive 'not eligible' notation and must repeat the course.
+
+CHUNK_ID: KB-PROG-011
+TOPIC: Examinations and Assessment
+CATEGORY: examinations
+---
+Examination and assessment system at SEUSL:
+- End Semester Examination (ESE): Formal written examinations held at the end of each semester. Major component of student assessment.
+- Continuous Assessment (CA): Ongoing evaluation throughout the semester via assignments, practicals, quizzes, mid-semester tests, presentations, and in-course activities. CA combined with ESE determines final grades.
+- Typical assessment split: 40% CA + 60% ESE final examination. Some courses are 100% coursework or 100% exam — check the course outline given at the start of each semester.
+- Minimum passing grade: D (approximately 40% of total marks). Below D is classified as E (Fail). For some postgraduate/specialized courses, C (50%) is the minimum pass.
+- Guidelines for examinations: https://www.seu.ac.lk/guidelines.php
+
+CHUNK_ID: KB-PROG-012
+TOPIC: Exam Policies — Illness, Plagiarism, Academic Integrity
+CATEGORY: examinations
+---
+Examination policies at SEUSL:
+- Missed exam due to illness: Submit a medical certificate from a government hospital to the Registrar/Examinations Division within 5 working days. Apply for a medical repeat examination. Approval is at the discretion of the Faculty Examination Board. Private clinic certificates may not be accepted.
+- Academic dishonesty/plagiarism: SEUSL has a strict academic integrity policy. Plagiarism can result in a zero mark for that assessment, course failure, or suspension. All written assignments are subject to plagiarism checks (Turnitin available via university library). Use proper citation and referencing.
+- Regulations available for download: Guidelines to Supervisors and Invigilators, Regulations Related to Maintaining Attendance and Calculation of Percentage Attendance, Regulations Related to Setting, Printing and Evaluation of Examinations — all at https://www.seu.ac.lk/guidelines.php
+
+CHUNK_ID: KB-PROG-013
+TOPIC: Graduation Requirements
+CATEGORY: academics
+---
+Requirements to graduate from SEUSL:
+1. Complete all compulsory courses in your degree program
+2. Accumulate minimum 120–130 total credits
+3. Maintain minimum CGPA of 2.0 throughout
+4. Complete industrial training successfully (for applicable programs)
+5. Submit and defend your final year research project
+6. Clear all library dues and hostel dues
+7. Obtain financial clearance from the Bursar's office
+
+After graduation: Apply to the Registrar's office for certified copies of your degree certificate and academic transcript. Submit written request, NIC, and pay the applicable fee. Allow 1–2 weeks for processing.

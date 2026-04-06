@@ -1,0 +1,85 @@
+CHUNK_ID: KB-POL-001
+TOPIC: Institutional Repository Policy (SEUIR)
+CATEGORY: policies
+---
+SEUSL Institutional Repository (SEUIR) — established in 2006. Website: http://ir.lib.seu.ac.lk/
+Software: Initially built on GreenStone Digital Library (GSDL); migrated to DSpace 4.0 in 2014; upgraded to DSpace 5.5 in November 2015.
+Mission: To be a nodal point of access for scholarship and creative work contributed by the university, expanding the visibility of university intellectual scholarship to the regional and global community.
+
+Accepted content: Conference proceedings of SEUSL, Theses and dissertations (undergraduate, postgraduate, and academic), Journals published by SEUSL, Articles authored by SEUSL academics (with copyright clearance), Books and book chapters (non-textbooks, case-by-case), Data sets (case-by-case), Grey literature (technical reports, working papers, annual reports — case-by-case).
+
+Submission rules: Only SEUSL members may submit. Only the SEUIR administrator or authorized person can deposit valid content. Academics can upload articles to the "Research Articles" collection. Authors are fully responsible for content validity and authenticity. Plagiarized content is the sole responsibility of the author. If the author does not own copyright, publisher permission must be obtained. University publications must be submitted within one calendar year.
+
+Accessibility: Items freely accessible via http://ir.lib.seu.ac.lk/. Articles are indexed in Google and Google Scholar. Creative Commons licenses supported.
+
+Retention: Scholarly materials retained permanently unless they infringe copyright, contain falsified research, or fail legal requirements.
+
+Withdrawal: Acceptable reasons include copyright violation, legal requirement, national security, falsified research, or duplicates. Authors must submit a prescribed form with editor/coordinator recommendation. The Librarian has sole authority over the Digital Library.
+
+CHUNK_ID: KB-POL-002
+TOPIC: Attendance Policy
+CATEGORY: policies
+---
+SEUSL Attendance Policy: A minimum of 80% attendance is required for each course unit to be eligible to sit the end semester examination. Students who fall below 80% attendance in a course receive a 'not eligible' notation and must repeat that course. Attendance regulations are available for download at https://www.seu.ac.lk/guidelines.php
+
+CHUNK_ID: KB-POL-003
+TOPIC: Academic Integrity and Plagiarism Policy
+CATEGORY: policies
+---
+SEUSL Academic Integrity Policy: SEUSL has a strict academic integrity policy. Plagiarism in assignments can result in a zero mark for that assessment, course failure, or suspension from the university. All written assignments are subject to plagiarism checks. Students are required to use proper citation and referencing in all academic work. Turnitin plagiarism detection software is available through the university library.
+
+CHUNK_ID: KB-POL-004
+TOPIC: Downloadable Forms and Documents
+CATEGORY: policies
+---
+Official SEUSL forms available for download from: https://www.seu.ac.lk/download.php
+Guidelines and regulations available at: https://www.seu.ac.lk/guidelines.php
+
+Human Resources / Staff Forms:
+- Leave Application Form (sick, vacation, casual, half-day, no-pay leave)
+- Prior Approval Form (OR/OT/01) — for Saturday/Sunday/Holiday overtime work
+- OT Prior Approval Form
+- Official Email Request Form — students must include Student Registration Number (format: xxxeg23.001@seu.ac.lk)
+- Application Form (Agrahara Medical Scheme) — National Insurance Trust Fund Board medical scheme
+- Introducing New Advance Requisition Note
+
+Guest House and Facility Booking:
+- Form GA/G/01 — Guest House Booking (Oluvil, Sammanthurai, APC Mt. Lavinia; A/C or Non-A/C)
+- Form GA/G/02 — APC Booking (Auditorium/Conference facility)
+
+Transport:
+- Form GA/G/04 — Application for Railway Warrant (official railway travel warrants)
+
+Stores and Procurement:
+- Form GA/G/05 — Gate Pass for Returnable Items
+- PRN Form for Capital Items (Purchase Requisition Note)
+- PRN Form for Consumable Items
+
+Maintenance and Repairs:
+- ERSU Repair Request — Electronics Repair Service Unit (CPU, UPS, monitors, printers, laptops, CCTV, photocopiers, other electronics)
+- Works Order (Form SEU/WMD/01) — Works & Maintenance Department (electrical, carpentry/masonry, water supply/plumbing, other maintenance)
+
+Guidelines available for download:
+- Guidelines to Supervisors and Invigilators
+- Regulations Related to Maintaining Attendance and Calculation of Percentage Attendance
+- Regulations Related to Setting, Printing and Evaluation of Examinations
+- Guideline for Field Trips
+- Terms of Reference (ToR) of the Grievance Hearing Committee
+- Grievance Application Form
+
+CHUNK_ID: KB-POL-005
+TOPIC: Research Conferences and Journals
+CATEGORY: research
+---
+SEUSL research conferences and publications:
+- Annual Science Research Session (ASRS) — organized by FAS
+- First International Conference on AI & Data Science (ICAIDS 2025) — organized by FAS
+- Annual International Research Conference — organized by FMC (Sixth Annual in recent years)
+- 11th International Symposium (INTSYMFIA 2026) — organized by FIA
+- Annual Research Conferences by each faculty
+
+Faculty Research Journals:
+- Journal of Science (JSC) — FAS: http://www.seu.ac.lk/jsc/
+- KALAM International Research Journal — FAC
+- Pravaham Journal — FAC
+- Journal of Social Review (JSR) — FAC

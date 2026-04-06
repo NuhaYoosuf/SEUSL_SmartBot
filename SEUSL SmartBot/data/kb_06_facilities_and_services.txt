@@ -1,0 +1,137 @@
+CHUNK_ID: KB-FAC-LIB-001
+TOPIC: University Library
+CATEGORY: facilities
+---
+SEUSL Library (Dr. A.M.A. Azeez Library):
+Location: Center of the SEUSL campus.
+Opening Hours: Monday–Friday 8:00 AM – 8:00 PM; Saturday 8:00 AM – 5:00 PM. Closed Sundays and public holidays. Extended hours may be available before exams.
+Website: http://www.seu.ac.lk/library/
+Science Library (FAS): http://www.seu.ac.lk/library/science_library/
+Vision: "To be a knowledge centre enabling intense intellectual inquiry by providing a dynamic learning environment and proactively linking the users with global knowledge to support the vision of SEUSL as that of a world class university."
+
+Digital Resources:
+- Taylor & Francis eBooks (subscribed; accessible within SEUSL network or via Shibboleth/Remote Access for off-campus)
+- E-Repository (SEUIR): http://ir.lib.seu.ac.lk/ (established 2006, built on DSpace)
+- E-Databases and online journals through UGC E-Journals Consortium
+- Library Catalog: searchable by Title, Author, Subject, ISBN, Series, Call number
+- Turnitin plagiarism detection tool (available through the library)
+- SERLIN: South Eastern Regional Library & Information Network of Sri Lanka (associated with SEUSL Library)
+
+CHUNK_ID: KB-FAC-ICT-001
+TOPIC: ICT Centre
+CATEGORY: facilities
+---
+SEUSL ICT Centre manages the university's IT infrastructure and provides IT-related facilities and services to staff and students.
+Services provided: SEU Email (@seu.ac.lk), Web Applications, Internet connectivity, Wi-Fi coverage across campus, IT Security, Licensed software, IT Labs with computer access, Technical support.
+Official email request: Staff and students can request an official @seu.ac.lk email address using the Official Email Request Form (available at https://www.seu.ac.lk/download.php). Students must include their Student Registration Number (format: xxxeg23.001@seu.ac.lk).
+Website: http://www.seu.ac.lk/ictcentre/index.php
+
+CHUNK_ID: KB-FAC-VLE-001
+TOPIC: Virtual Learning Environment (VLE) and Student Portal
+CATEGORY: facilities
+---
+SEUSL Virtual Learning Environment (VLE): Used for online course delivery, assignments, and learning materials.
+- Main VLE: http://vle.seu.ac.lk/
+- FAS VLE: https://fasvle.seu.ac.lk/
+- FT VLE: http://vle.seu.ac.lk/course/index.php?categoryid=137
+Student Web Portal: http://st.seu.ac.lk/
+The VLE and student portal require your student index number and university credentials to log in.
+
+CHUNK_ID: KB-FAC-ELTU-001
+TOPIC: English Language Teaching Unit (ELTU)
+CATEGORY: facilities
+---
+The English Language Teaching Unit (ELTU) supports students in improving English language skills critical for academic success. ELTU is especially useful for students in faculties where English is the medium of instruction (FAS, FE, FT). ELTU runs language improvement programs, workshops, and provides individual support.
+Website: http://www.seu.ac.lk/eltu/index.php
+
+CHUNK_ID: KB-FAC-SSSW-001
+TOPIC: Student Support Services and Welfare (SSSW)
+CATEGORY: facilities
+---
+Student Support Services and Welfare (SSSW) coordinates student support and welfare by networking the Student Services and Registration Division, Service Divisions (Health Centre, Physical Education Division, Maintenance Division, Security Division, Marshal Unit), Student Counseling System, and Career Guidance Unit.
+Director: Dr. ALM. Ayoobkhan (Senior Lecturer in E-Commerce)
+Email: directorsssw@seu.ac.lk / ayoob@seu.ac.lk
+Phone: +94 67 2255389 | Mobile: +94 77 8684242
+Website: http://www.seu.ac.lk/sssw/index.php
+
+CHUNK_ID: KB-FAC-CGU-001
+TOPIC: Career Guidance Unit (CGU)
+CATEGORY: facilities
+---
+Career Guidance Unit (CGU) — established in 1998.
+Director: Dr. J.A. Thamboo
+Email: jathamboo@seu.ac.lk
+Phone: +94 67 2255065 | Mobile: +94 766407474
+Vision: Be a center of excellence in producing employable graduates by providing support, guidance, and counseling.
+Services: Career planning and counseling, job placement assistance, industrial training coordination, internship opportunities, professional development workshops, CV writing and interview preparation. Career fairs and company presentations are organized on campus.
+Website: http://www.seu.ac.lk/careerguidanceunit/index.php
+Students are advised to visit the CGU from Year 1, not to wait until final year.
+
+CHUNK_ID: KB-FAC-RIC-001
+TOPIC: Research and Innovation Centre (RIC)
+CATEGORY: facilities
+---
+Research and Innovation Centre (RIC) — established in 2014.
+Director: Prof. (Dr.) Abdul Majeed Muzathik
+Email: directorric@seu.ac.lk
+Phone: +94 67 2052805
+Objective: To serve as the guidepost for the university to reach its full potential in research and scholarly activity, enhancing Sri Lanka's economic, social, and cultural well-being. Promotes and facilitates high-quality basic and applied research including collaborative and interdisciplinary research.
+Website: http://www.seu.ac.lk/ric/index.php
+
+CHUNK_ID: KB-FAC-OSPIM-001
+TOPIC: OSPIM (Office of Strategic Planning and International Matters)
+CATEGORY: facilities
+---
+OSPIM — Office of Strategic Planning and Implementation Monitoring / International Matters.
+Director: Dr. A. Ilmudeen (also Professor in MIT at FMC)
+Email: ospim@seu.ac.lk
+Phone: +94 67 2255062 | Mobile: +94 760123617
+Functions: Strategic Plan, Action Plan, Progress Monitoring, Strategic Planning. Also handles international student admissions, international partnerships, MoU agreements, and study abroad programs.
+SEUSL has MoUs with universities in India, Malaysia, and other countries for student/staff exchanges, collaborative research, and dual degree opportunities.
+Website: http://www.seu.ac.lk/ospim/index.php
+International students and exchange programs inquiries should be directed to OSPIM.
+
+CHUNK_ID: KB-FAC-HEALTH-001
+TOPIC: Health Centre and Welfare Facilities
+CATEGORY: facilities
+---
+SEUSL Health Centre: Located near the admin block. Staffed by a medical officer who holds regular clinical sessions. Minor ailments treated and medicines provided free of charge. Serious conditions are referred to Kalmunai Base Hospital (~5 km from campus).
+
+University Canteen: Open weekdays serving breakfast, lunch, and dinner. Food is subsidized for students. Small student-run kiosks and food stalls also operate near hostel areas. Canteen serves halal food (Sri Lankan meals — rice and curry, short eats, beverages). The campus environment is Muslim-friendly with halal food available.
+
+Mosque/Prayer Facilities: Mosque facilities and prayer rooms available on and near campus. Prayer times are respected in the academic schedule.
+
+ATMs and Banking: No ATMs directly on campus. Nearest bank branches and ATMs are in Kalmunai town (~5 km). Bank of Ceylon, People's Bank, and Commercial Bank have branches in Kalmunai.
+
+CHUNK_ID: KB-FAC-SPORTS-001
+TOPIC: Sports and Physical Education
+CATEGORY: facilities
+---
+SEUSL Physical Education Unit manages sports facilities, university sports teams, and physical education programs.
+Website: http://www.seu.ac.lk/physicaleducationunit/index.php
+
+Sports Facilities: Cricket ground, football/soccer pitch, volleyball and netball courts, badminton courts, multi-purpose indoor sports hall.
+
+SLUG: Sri Lanka University Games — national inter-university sports championship. SEUSL participates and selects top athletes to represent the university. SLUG includes cricket, football, volleyball, athletics, swimming, and other sports.
+
+CHUNK_ID: KB-FAC-FAS-CENTRES-001
+TOPIC: FAS Research Centres
+CATEGORY: facilities
+---
+Faculty of Applied Sciences Research Centres:
+1. Science Research Centre (SRCFAS): Dedicated to advancing scientific knowledge. Equipped with advanced instrumentation. Research areas: biotechnology, environmental science, materials science, physics, chemistry.
+2. Science Education Centre (SECFAS): Links the faculty with the education community. Promotes science education in the southeastern region. Conducts seminars, practical sessions, science camps, quiz competitions, and publishes science monographs.
+3. Centre for Soil and Water Research (CSWR): Established in 2004 (first centre at FAS) with external support (NGOs) by Mr. MF Nawas and Mr. EMJM Rizvi. Located at the Department of Chemical Sciences. After the Tsunami, CSWR was actively involved in community services, analyzing affected water wells.
+4. Industrial Training Cell (ITC): Established in 2018. Objective: produce science graduates skilled in industrial activities by exposing them to real working environments. Organizes industrial training by linking students with relevant industries.
+
+CHUNK_ID: KB-FAC-OTHER-001
+TOPIC: Other University Units and Centres
+CATEGORY: facilities
+---
+Additional SEUSL units and centres:
+- Staff Development Centre (SDC): Professional development for academic and non-academic staff. Website: http://www.seu.ac.lk/sdc/index.php
+- Centre for Extension and Distance and Professional Learning (CEDPL): Extension education and distance learning programs. Website: http://www.seu.ac.lk/cedpl/index.php
+- Internal Quality Assurance Unit (IQAU): Oversees quality standards and accreditation. Website: http://www.seu.ac.lk/iqau/
+- Technology and Innovation Support Centre (TISC): Supports technology transfer and intellectual property. Website: http://www.seu.ac.lk/tisc/index.php
+- University Business Linkage Cell (UBL Cell): Facilitates university-industry collaboration. Website: http://www.seu.ac.lk/ubl/index.php
+- University Life: Student activities, clubs, societies, campus life. Website: http://www.seu.ac.lk/universitylife/index.php

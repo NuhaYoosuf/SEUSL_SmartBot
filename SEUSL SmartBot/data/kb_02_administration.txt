@@ -1,0 +1,95 @@
+CHUNK_ID: KB-ADM-001
+TOPIC: Chancellor
+CATEGORY: administration
+---
+The Chancellor of South Eastern University of Sri Lanka is Dr. Faisz Musthapha, PC. The Chancellor is the ceremonial head of the university.
+
+CHUNK_ID: KB-ADM-002
+TOPIC: Vice Chancellor (Current)
+CATEGORY: administration
+---
+The current Vice Chancellor of South Eastern University of Sri Lanka is Prof. (Dr.) S. M. Junaideen. He is from the Faculty of Engineering. Contact: Email: vcseu@seu.ac.lk | Phone: +94 67 2255138 | Fax: +94 67 2255066. Staff profile: http://fe.seu.ac.lk/staff/academic/index.php?fun=FE0_001
+
+CHUNK_ID: KB-ADM-003
+TOPIC: Past Vice Chancellors
+CATEGORY: administration
+---
+Previous Vice Chancellors of SEUSL in reverse chronological order:
+1. Prof. MMM. Najim — Vice-Chancellor (2018.08.10 – 2021.08.08)
+2. Prof. UMA Coomaraswamy — Competent Authority (2018.06.19 – 2018.08.09)
+3. Prof. MMM. Najim — Vice-Chancellor (2015.06.22 – 2018.06.18)
+4. Dr. SM. Mohamed Ismail — Vice-Chancellor (2009.06.22 – 2015.06.22)
+5. Dr. A.G. Husain Ismail — Vice-Chancellor (2003.12.05 – 2009.06.21)
+6. Prof. MLA. Cader — Founder Vice-Chancellor (1996.05.15 – 2003.05.11); also served as Director of South Eastern University College (1995.10.12 – 1996.05.14).
+Prof. MMM. Najim served immediately before Prof. Junaideen.
+
+CHUNK_ID: KB-ADM-004
+TOPIC: General Contact Information
+CATEGORY: contact
+---
+SEUSL General Contact:
+Phone: +94 67 2255062 / +94 67 2255063 / +94 67 2255064
+Fax: +94 67 2255217
+Address: University Park, Oluvil, #32360, Sri Lanka.
+Website: https://www.seu.ac.lk/
+
+Vice Chancellor's Office:
+Phone: +94 67 2255138 | Fax: +94 67 2255066 | Email: vcseu@seu.ac.lk
+
+Registrar's Office:
+Phone: +94 67 2255168 | Fax: +94 67 2255190 | Email: registrar@seu.ac.lk
+Address: South Eastern University of Sri Lanka, P.O. Box 01, University Park, Oluvil, #32280, Sri Lanka.
+Website: http://www.seu.ac.lk/generaladmin/reg_office/
+
+CHUNK_ID: KB-ADM-005
+TOPIC: Registrar's Office Divisions
+CATEGORY: administration
+---
+The Registrar's office oversees all administrative divisions of SEUSL. Divisions under the Registrar include:
+- Administration Division: http://www.seu.ac.lk/generaladmin/admin/
+- Academic Establishment Division: http://www.seu.ac.lk/generaladmin/aestb/
+- Non Academic Establishment Division: http://www.seu.ac.lk/generaladmin/naestb/
+- Examination Division: http://www.seu.ac.lk/generaladmin/exams/
+- Staff & Students Welfare Division: http://www.seu.ac.lk/generaladmin/ssw/
+- Academic and Students Affairs Division: http://www.seu.ac.lk/generaladmin/asa/
+- Capital Works & Planning Division: http://www.seu.ac.lk/generaladmin/cwp/
+- Legal and Documentations: http://www.seu.ac.lk/generaladmin/ld/
+- Internal Audit Division: http://www.seu.ac.lk/generaladmin/ia/
+- Works and Maintenance Division: http://www.seu.ac.lk/generaladmin/wm/
+- Landscape Division: http://www.seu.ac.lk/landscape/index.php
+- Security Services Division: http://www.seu.ac.lk/generaladmin/ss/
+- Students Accommodations: http://www.seu.ac.lk/generaladmin/stacc/
+Working hours: Monday to Friday, 8:30 AM – 4:15 PM. Closed on public holidays and Poya days.
+
+CHUNK_ID: KB-ADM-006
+TOPIC: Financial Administration
+CATEGORY: administration
+---
+SEUSL Financial Administration divisions:
+- Accounts and Budget Division: http://www.seu.ac.lk/financialadmin/accounts.php
+- Payments Division: http://www.seu.ac.lk/financialadmin/payments.php
+- Salaries Division: http://www.seu.ac.lk/financialadmin/salaries.php
+- Store and Suppliers Division: http://www.seu.ac.lk/financialadmin/storeandsuppliers.php
+- Internal Audit Division
+For student financial matters (fees, bursary clearance, financial dues), contact the Bursar's office in the main administration building.
+
+CHUNK_ID: KB-ADM-007
+TOPIC: Student Administrative Procedures
+CATEGORY: administration
+---
+Key student administrative procedures at SEUSL:
+- Student ID Card: Issued within first few weeks of registration by the Registrar's office. Required for library access, exams, and hostel. Your student index number (e.g., CS/2024/001) is your unique university identifier used on all exam papers, LMS login, library registration, and fee payments.
+- Student Confirmation / Status Letter: Submit a written request or fill the form at the Registrar's office stating the purpose (bank account, scholarship, visa, etc.). Issued within 3–5 working days. A small fee may apply. Bring your student ID when collecting.
+- Official Academic Transcript: Submit a written request to the Registrar's office with your student index number, full name, degree program, and purpose. Transcripts are usually ready within 5–10 working days. A fee is charged per copy. Official transcripts are sealed and stamped.
+- Deferment/Suspension of Studies: Submit a formal written application to the Registrar via your HoD with valid reasons (medical, family emergency) and supporting documents. Medical deferral requires a certified government hospital letter. A maximum of one academic year deferment is usually permitted during the full degree program.
+- Grievance: Terms of Reference (ToR) of the Grievance Hearing Committee and Grievance Application Form are available at https://www.seu.ac.lk/guidelines.php
+
+CHUNK_ID: KB-ADM-008
+TOPIC: VC Office Staff
+CATEGORY: administration
+---
+Vice Chancellor's Office Support Staff:
+- Mr. M. Sutharsan — Assistant Registrar, VC Office. Mobile: +94 76 012 3817. Email: arvcoffice@seu.ac.lk / msutharsan@seu.ac.lk
+- Mr. AMM. Jihan — Management Assistant Gr. III
+- Mr. U.L. Mansoor — Works Aide Gr. I
+- Mr. M. Nilam — Works Aide Gr. III

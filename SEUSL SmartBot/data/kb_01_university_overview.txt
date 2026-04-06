@@ -1,0 +1,59 @@
+CHUNK_ID: KB-GEN-001
+TOPIC: University Identity and Location
+CATEGORY: general
+---
+South Eastern University of Sri Lanka (SEUSL) is a national state university fully recognized by the University Grants Commission (UGC) of Sri Lanka. Its official website is https://www.seu.ac.lk/. The university is located at University Park, Oluvil, #32360, Ampara District, Eastern Province, Sri Lanka — approximately 320 km from Colombo along the southern coastal road. The permanent campus covers 220 acres of land near the southeastern coastline of Sri Lanka.
+
+CHUNK_ID: KB-GEN-002
+TOPIC: History and Establishment
+CATEGORY: general
+---
+The South Eastern University College of Sri Lanka was established by gazette notification 88/9 dated 26 July 1995, under the provisions of section 24A of the University Act No. 16 of 1978. It was established to accommodate Muslim staff and students displaced from the University of Jaffna and later the Eastern University during civil unrest in the North and East of Sri Lanka. The University College was ceremonially inaugurated with a batch of 33 students in October 1995. By gazette notification 916/7 dated 27th March 1996, it was elevated to a fully-fledged National University under the name South Eastern University of Sri Lanka (SEUSL). Full university activities commenced from 15th May 1996.
+
+CHUNK_ID: KB-GEN-003
+TOPIC: Vision and Mission
+CATEGORY: general
+---
+Vision of SEUSL: "An Internationally Renowned Center in South Asia for Higher Learning and Innovations in Sciences, Technologies and Humanities." SEUSL aims to produce graduates with analytical minds, research capabilities, leadership quality, managerial skills, and ethical and moral values by creating a conducive environment for innovative teaching, learning, and research.
+
+CHUNK_ID: KB-GEN-004
+TOPIC: University Statistics and Scale
+CATEGORY: general
+---
+SEUSL has over 4,450 students, over 240 academic staff, 6 faculties, and over 25 departments. The university began with just 33 students in 1995 and has grown into one of Sri Lanka's recognized national universities. The campus is located near the Indian Ocean coastline in Oluvil.
+
+CHUNK_ID: KB-GEN-005
+TOPIC: Faculty History and Founding Sequence
+CATEGORY: general
+---
+SEUSL began with two faculties — Faculty of Arts & Culture (FAC) and Faculty of Management and Commerce (FMC) — operating at Addalaichenai, sharing premises of the Government Teachers' Training College. In 1997, the Faculty of Applied Sciences (FAS) was established at Sammanthurai. In May 1998, FAC and FMC moved to the permanent campus at Oluvil. In October 2005, the Faculty of Islamic Studies and Arabic Language (FIA) was established — the only faculty of its kind in any Sri Lankan university. The Faculty of Engineering (FE) and Faculty of Technology (FT) were established subsequently.
+
+CHUNK_ID: KB-GEN-006
+TOPIC: Social Media and Online Presence
+CATEGORY: general
+---
+SEUSL official social media and online channels: Facebook: https://www.facebook.com/pages/South-Eastern-University-of-Sri-Lanka/992110304136392 | Twitter: @SEUSL_Oluvil (https://twitter.com/SEUSL_Oluvil) | YouTube: https://www.youtube.com/channel/UCUtXxXZnUq3OxnpHmCc8heg | LinkedIn: https://lk.linkedin.com/in/seusl. Latest news is posted at https://www.seu.ac.lk/ and http://www.seu.ac.lk/newsletter/
+
+CHUNK_ID: KB-GEN-007
+TOPIC: AHEAD Project
+CATEGORY: general
+---
+AHEAD stands for Accelerating Higher Education Expansion and Development. It is a World Bank-funded project with activities at SEUSL aimed at improving the quality and relevance of higher education. Website: http://www.seu.ac.lk/ahead/
+
+CHUNK_ID: KB-GEN-008
+TOPIC: MoU with Colombo Stock Exchange
+CATEGORY: general
+---
+South Eastern University of Sri Lanka and the Colombo Stock Exchange (CSE) signed a Memorandum of Understanding (MoU) on 16 August 2024. The MoU fosters collaboration in education, research, and professional development, covering joint research projects, internships, guest lectures, and training programs. The Faculty of Management and Commerce also has ongoing discussions with Abans Finance for industrial training and placements for FMC students.
+
+CHUNK_ID: KB-GEN-009
+TOPIC: Geographic Context for Students
+CATEGORY: student_life
+---
+The nearest significant town to SEUSL is Kalmunai, approximately 5 km north of campus, which has banks, supermarkets, pharmacies, and shopping facilities. Ampara town (the district capital) is about 40 km away. Batticaloa is approximately 70 km north with a larger city and more facilities. Popular student day trips include Arugam Bay (~15 km, world-famous surf beach), Ampara town, Batticaloa, Kumana National Park, and Lahugala National Park. The sea beach at Oluvil is a short walk from campus.
+
+CHUNK_ID: KB-GEN-010
+TOPIC: How to Travel to SEUSL
+CATEGORY: student_life
+---
+From Colombo to SEUSL: The most common route is by intercity bus from Colombo Central Bus Stand (Bastian Mawatha) — buses to Ampara or Kalmunai pass through Oluvil (journey ~7–9 hours). Alternatively, take a train to Batticaloa and then a bus south to Oluvil (~1.5 hours additional). Some students hire vans or cabs, especially on registration day with luggage.

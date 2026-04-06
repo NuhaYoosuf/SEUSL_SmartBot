@@ -1,0 +1,101 @@
+CHUNK_ID: KB-FAC-001
+TOPIC: Faculty Overview — All Six Faculties
+CATEGORY: faculties
+---
+SEUSL has six faculties:
+1. Faculty of Arts and Culture (FAC) — Website: www.seu.ac.lk/fac/
+2. Faculty of Management and Commerce (FMC) — Website: www.seu.ac.lk/fmc/
+3. Faculty of Applied Sciences (FAS) — Website: www.seu.ac.lk/fas/
+4. Faculty of Islamic Studies and Arabic Language (FIA) — Website: www.seu.ac.lk/fia/
+5. Faculty of Engineering (FE) — Website: http://fe.seu.ac.lk/
+6. Faculty of Technology (FT) — Website: www.seu.ac.lk/ft/
+Faculty contact pages: FAC: http://www.seu.ac.lk/fac/contact.php | FMC: http://www.seu.ac.lk/fmc/contact.php | FIA: http://www.seu.ac.lk/fia/contact.php | FE: http://www.seu.ac.lk/fe/contact.php | FT: http://www.seu.ac.lk/ft/contact.php
+
+CHUNK_ID: KB-FAC-002
+TOPIC: Faculty of Arts and Culture (FAC)
+CATEGORY: faculties
+---
+Faculty of Arts and Culture (FAC):
+Dean: Prof. (Dr.) MM. Fazil (Professor in Political Science). Email: fazrasm@seu.ac.lk / fazilmoh@gmail.com. Phone: +94 67 2255182.
+Established: 1996 at Addalaichenai; moved to Oluvil permanent campus in May 1998.
+Contact Address: Faculty of Arts and Culture, South Eastern University of Sri Lanka, University Park, Oluvil, #32360, Sri Lanka.
+Mission: To produce high quality graduates with analytical mind, research capabilities, leadership quality, managerial skills and ethical and moral values by creating a conducive environment to adopt innovative teaching, learning and research to meet the fast changing needs of the society.
+Departments (8 total): Department of Social Sciences | Department of Languages | Department of Geography | Department of Political Science | Department of Economics and Statistics | Department of English Language Teaching (DELT) | Department of Sociology | Department of Information Technology
+Academic Units: Postgraduate Unit (PGU-FAC)
+Programs: Bachelor of Arts (BA), Diploma in English, Certificate in Human Rights, Short Course in Geo-informatics (GIS)
+Research Publications: KALAM International Research Journal, Pravaham Journal, Journal of Social Review (JSR), Annual Research Conference.
+VLE: http://vle.seu.ac.lk/
+
+CHUNK_ID: KB-FAC-003
+TOPIC: Faculty of Management and Commerce (FMC)
+CATEGORY: faculties
+---
+Faculty of Management and Commerce (FMC):
+Dean: Prof. AMM. Mustafa (Professor in Business Economics). Email: amustafa@seu.ac.lk. Mobile: 076-5762040.
+Established: 1996 at Addalaichenai; moved to Oluvil in May 1998.
+Contact: Phone +94 67 2255386 | Fax +94 67 2255069
+Mission: To provide a quality education in business studies which blends the best of relevant theory and practice with an innovative approach to teaching, learning and research giving due consideration to the changing environment, the real demands of business world, and the contemporary development needs of the South Eastern Region and the country as a whole.
+Departments (4 total): Department of Accountancy and Finance | Department of Management | Department of Management and IT (MIT) | Department of Marketing Management
+Programs: Bachelor of Business Administration (BBA), Bachelor of Commerce (B.Com), Bachelor of Science in Management and Information Technology, Postgraduate Diploma (PGD), MPhil by Research, PhD by Research
+Academic Units: Postgraduate Unit (PGU-FMC)
+Research: Annual International Research Conference hosted by FMC. FMC Alumni Association exists.
+Downloads (postgraduate application forms, entry requirements): https://www.seu.ac.lk/fmc/downloads/mphil_phd/
+VLE: http://vle.seu.ac.lk/
+
+CHUNK_ID: KB-FAC-004
+TOPIC: Faculty of Applied Sciences (FAS)
+CATEGORY: faculties
+---
+Faculty of Applied Sciences (FAS):
+Dean: Prof. HMM Naleer. Mobile: +94 760180102. Email: hmmnaleer@seu.ac.lk.
+Established: 1997 at Sammanthurai (the FAS campus remains at Sammanthurai). FAS Contact: Phone +94 67 2260714 | Fax +94 67 2260932.
+Departments (5 total):
+1. Department of Biological Sciences — Head: Mr. AM Riyas Ahamed | Email: riyasahame@yahoo.co.uk | Contact: +94 776009200
+2. Department of Chemical Sciences — Head: Mr. MF Nawas | Email: mfnawas@seu.ac.lk | Contact: +94 777900946
+3. Department of Computer Science — Head: Mr. AL Hanees | Email: alhanees@seu.ac.lk | Contact: +94 760123729
+4. Department of Mathematical Sciences — Head: Dr. M.C. Alibuhtto | Email: mcabuhtto@seu.ac.lk | Contact: +94 776201677
+5. Department of Physical Sciences — Head: Dr. T. Jaseetharan | Email: jaseetharan@seu.ac.lk | Contact: +94 772852827
+Programs: B.Sc. in Biological Sciences, B.Sc. in Chemical Sciences, B.Sc. in Computer Science, B.Sc. in Mathematical Sciences, B.Sc. in Physical Sciences, Diploma in Computer Technology (DCT), Postgraduate Diploma in Applied Statistics (PGDAS), MPhil and PhD by Research.
+Centres: Science Research Centre (SRCFAS), Science Education Centre (SECFAS), Centre for Soil and Water Research (CSWR — established 2004), Industrial Training Cell (ITC — established 2018), Internal Quality Assurance Cell (IQAC), Postgraduate Unit (PGUFAS).
+Publications: Journal of Science (JSC): http://www.seu.ac.lk/jsc/
+VLE: https://fasvle.seu.ac.lk/
+Science Library: http://www.seu.ac.lk/library/science_library/
+
+CHUNK_ID: KB-FAC-005
+TOPIC: Faculty of Islamic Studies and Arabic Language (FIA)
+CATEGORY: faculties
+---
+Faculty of Islamic Studies and Arabic Language (FIA):
+Dean: Ash Sheikh. MHA. Munas. Email: munas@seu.ac.lk / munasmha@gmail.com. Mobile: +94 77 2226131. Phone: +94 67 2255127. Fax: +94 67 2255385.
+Established: October 2005 with the first batch of 50 students for Academic Year 2005/2006. It is the ONLY faculty of this nature in any university in Sri Lanka.
+Mission: To become a centre for integration, research and comprehensive educational excellence in the field of Islamic Studies and Arabic Language.
+Vision: To be a leading centre for the integration of Islamic Studies and Arabic Language.
+Departments (3 units): Department of Islamic Studies (Head: Prof. SMM. Nafees) | Department of Arabic Language (Head: Dr. AM. Razick) | Interdisciplinary Course Unit.
+Programs: Bachelor of Arts in Islamic Studies, Bachelor of Arts in Arabic Language, Diploma in Islamic Studies, Diploma in Arabic Language.
+Notable: The 11th International Symposium (INTSYMFIA 2026) was organized by FIA. Saudi Arabian Ambassador attended the 17th graduation ceremony of SEUSL.
+
+CHUNK_ID: KB-FAC-006
+TOPIC: Faculty of Technology (FT)
+CATEGORY: faculties
+---
+Faculty of Technology (FT):
+Dean: Dr. U.L. Abdul Majeed (Senior Lecturer in BST). Email: ulmajeed@seu.ac.lk. Phone: +94 67 2052818. Mobile: +94 77 3121350.
+Contact Address: Faculty of Technology, South Eastern University of Sri Lanka, University Park, Oluvil, #32360.
+Departments (2 total):
+1. Department of Biosystems Technology (BST) — Head: Dr. Muneeb M. Musthafa (Senior Lecturer in BST)
+2. Department of Information and Communication Technology (ICT) — Head: Mr. RK. Ahmadh Rifai Kariapper (Senior Lecturer in ICT)
+Programs: B.Sc. in Biosystems Technology, B.Sc. in Information and Communication Technology (ICT), MPhil in Biosystems Technology by Research, PhD in Biosystems Technology by Research, Short-Term Training Programmes (STTP) by ICT Department (open to external candidates).
+Academic Units: Postgraduate Unit (PGUFT)
+Programme of Study: http://www.seu.ac.lk/ft/program_of_study.php
+VLE: http://vle.seu.ac.lk/course/index.php?categoryid=137
+
+CHUNK_ID: KB-FAC-007
+TOPIC: Faculty of Engineering (FE)
+CATEGORY: faculties
+---
+Faculty of Engineering (FE):
+Website: http://fe.seu.ac.lk/
+Contact page: www.seu.ac.lk/fe/contact.php
+Academic staff profiles: http://www.seu.ac.lk/fe/academic_staff.php
+Note: Prof. S. M. Junaideen, the current Vice Chancellor, is from the Faculty of Engineering.
+Programs: Engineering degree programs (full details available at the FE website).

@@ -1,0 +1,108 @@
+CHUNK_ID: KB-STAFF-001
+TOPIC: FAC Academic Staff — Department of Social Sciences
+CATEGORY: staff
+---
+Faculty of Arts and Culture, Department of Social Sciences:
+Head: Prof. (Dr.) ALM. Riyal — Professor in Philosophy
+Staff: Prof. (Dr.) ILM. Mahir (Professor in Philosophy), Prof. (Dr.) K. Kanesarajah (Professor in Philosophy), Dr. S. Anuzsiya (Senior Lecturer in History), Mr. ML. Issadeen (Senior Lecturer in Philosophy — On Study Leave), Dr. M. Mohamed Firose (Senior Lecturer in Philosophy), Ms. H.F. Firdawsiya (Lecturer — Probationary in History), Mr. S.H. Mohamed Shazny (Lecturer in Education).
+
+CHUNK_ID: KB-STAFF-002
+TOPIC: FAC Academic Staff — Department of Geography
+CATEGORY: staff
+---
+Faculty of Arts and Culture, Department of Geography:
+Head: Dr. IL. Mohamed Zahir — Senior Lecturer Gr II in Geography (GIS)
+Staff: Prof. MIM. Kaleel (Chair Professor in Geography), Dr. Rafeeka Ameerdeen (Senior Lecturer), Mr. ML. Fowzul Ameer (Senior Lecturer in Geography), Mr. M.H. Mohamed Rinos (Senior Lecturer in GIS), Mr. K. Nijamir (Senior Lecturer in Geography), Mr. AL. Iyoob (Senior Lecturer in Geography), Ms. MN. Nuska Banu (Lecturer — Probationary in Geography), Ms. MH. Fathima Nuskiya (Lecturer — Probationary in Geography).
+
+CHUNK_ID: KB-STAFF-003
+TOPIC: FAC Academic Staff — Department of Languages
+CATEGORY: staff
+---
+Faculty of Arts and Culture, Department of Languages:
+Head: Prof. (Dr.) A.F.M. Ashraff — Professor in Languages
+Staff: Prof. (Dr.) MAM. Rameez (Senior Professor in Tamil), Dr. SR. Rahila Ziyad (Senior Lecturer in Tamil), Dr. K. Raguparan (Senior Lecturer in Tamil), Prof. (Dr.) MASF. Saadiya (Professor in Tamil), Mrs. Selvakumari Sivalingam (Senior Lecturer in Hindu Civilization), Mr. N. Subaraj (Senior Lecturer in Hindu Civilization), Mrs. SH. Sadeeka Farween (Senior Lecturer Gr II in Sinhala — On Study Leave), Mrs. KR. Fathima Seefa (Senior Lecturer Gr II in English), Mrs. MI. Fathima Safna (Lecturer in Tamil), Mr. M. Abdul Rasak (Senior Lecturer Gr II in Tamil).
+
+CHUNK_ID: KB-STAFF-004
+TOPIC: FAC Academic Staff — Department of Political Science
+CATEGORY: staff
+---
+Faculty of Arts and Culture, Department of Political Science:
+Head: Dr. M. Abdul Jabbar — Senior Lecturer in Political Science
+Staff: Prof. (Dr.) MM. Fazil (Professor in Political Science and Dean of FAC), Prof. MAM. Fowsar (Professor in Political Science — On Study Leave), Mrs. T. Fathima Sajeetha (Senior Lecturer Gr II — On Study Leave), Ms. MB. Safna Sakki (Senior Lecturer Gr II in Political Science), Mr. V. Kamalasiri (Senior Lecturer Gr II in Political Science).
+
+CHUNK_ID: KB-STAFF-005
+TOPIC: FAC Academic Staff — Department of Economics and Statistics
+CATEGORY: staff
+---
+Faculty of Arts and Culture, Department of Economics and Statistics:
+Head: Prof. (Dr.) AAM. Nufile — Professor in Economics
+Staff: Dr. ACM. Hanas (Senior Lecturer in Economics), Mr. S. Santhirakumar (Senior Lecturer Gr II in Economics), Ms. MN. Fathima Waseema (Lecturer — Probationary in Economics), Ms. Kalideen Fathima Rinosha (Senior Lecturer Gr II in Economics), Mrs. U.L. Milhana (Lecturer — Probationary in Economics), Mrs. A. Fathima Thahara (Senior Lecturer Gr II in Economics).
+
+CHUNK_ID: KB-STAFF-006
+TOPIC: FAC Academic Staff — Department of English Language Teaching (DELT)
+CATEGORY: staff
+---
+Faculty of Arts and Culture, Department of English Language Teaching (DELT):
+Head: Dr. MIF. Kareema — Senior Lecturer in English
+Staff: Prof. (Dr.) AMM. Navaz (Professor in English/ELT), Mr. MM. Abdul Rahman (Senior Lecturer in English), Mr. MAM. Sameem (Lecturer in English), Ms. Z. Hoorul Firthouz (Lecturer — Probationary in TESL), Ms. Ilfa Ijlal (Lecturer — Probationary in TESL), Ms. S. Firzan Begum (Instructor in English Gr III), Ms. FR. Fathima Sama (Instructor in English Gr III), Ms. MAKF. Shakira (Instructor in English Gr III), Ms. ARF. Rizni Sano (Instructor in English Gr III), Mr. M.H.M. Al-Ihsan (Instructor in English Gr III), Miss. GM. Rifka Nusrath (Instructor in English Gr III).
+
+CHUNK_ID: KB-STAFF-007
+TOPIC: FAC Academic Staff — Department of Sociology
+CATEGORY: staff
+---
+Faculty of Arts and Culture, Department of Sociology:
+Head: Dr. M. Riswan — Senior Lecturer Grade I in Sociology
+Staff: Prof. (Dr.) A. Rameez (Professor in Sociology), Prof. (Dr.) SM. Ayoob (Professor in Sociology), Dr. A.W.N. Naleefa (Senior Lecturer Grade I in Sociology), Ms. Lumna Noohu (Lecturer — Probationary in Sociology).
+
+CHUNK_ID: KB-STAFF-008
+TOPIC: FAC Academic Staff — Department of Information Technology
+CATEGORY: staff
+---
+Faculty of Arts and Culture, Department of Information Technology:
+Head: Dr. CMM. Mansoor — Senior Lecturer in Computer Science
+Staff: Mrs. MS. Faathiima Fayaza (Lecturer in Computer Science), Mr. JM. Nazeer (Instructor in Computer Technology Gr I), Mr. MM. Shaheed (Instructor in Computer Technology Gr I).
+
+CHUNK_ID: KB-STAFF-009
+TOPIC: FMC Academic Staff — Departments of Accountancy and Management
+CATEGORY: staff
+---
+Faculty of Management and Commerce:
+Dean: Prof. AMM. Mustafa — Professor in Business Economics.
+
+Department of Accountancy and Finance: Dr. ALM. Ayoobkhan (Senior Lecturer in E-Commerce, also Director SSSW), Dr. M.I.M. Riyath (Senior Lecturer in Finance), Mr. M. Farwis (Senior Lecturer in Accountancy), Mr. M. Siraji (Lecturer — Unconfirmed in Finance), Mrs. A.R. Fathima Thafani (Lecturer in Finance).
+
+Department of Management: Head: Prof. (Dr.) M.A.C. Salfiya Ummah (Senior Lecturer in Business Studies). Staff: Prof. (Mrs.) F.H. Abdul Rauf (Professor of Management), Prof. S. Gunapalan (Professor in Management), Dr. (Mrs.) MAC. Sulaiha Beevi (Senior Lecturer), Mr. M.A. Mohamed Hussain Ali (Senior Lecturer), Dr. (Mrs.) S. Safeena M.G.H (Senior Lecturer), Mrs. Sareena UMA Gaffoor (Senior Lecturer), Prof. AMM. Mustafa (Dean, Professor in Business Economics), Dr. I. Raisal (Senior Lecturer), Mr. ARM. Anzar (Senior Lecturer in English), Mr. M. Mohamed Shiraj (Senior Lecturer in IT), Mr. TL. Sakeer Ussain (Senior Educational Assistant in Mathematics).
+
+CHUNK_ID: KB-STAFF-010
+TOPIC: FMC Academic Staff — MIT and Marketing Departments
+CATEGORY: staff
+---
+Faculty of Management and Commerce:
+
+Department of Management and Information Technology (MIT): Head: Prof. S. Sabraz Nawaz (Professor in MIT). Staff: Prof. M.H. Thowfeek (Professor of MIT, Cadre Chair), Dr. M.B.M. Irshad (Senior Lecturer in Management), Mrs. S.M. Murshitha (Senior Lecturer in MIT), Prof. (Dr.) A. Ilmudeen (Professor in MIT, also Director OSPIM), Ms. M.F. Rashida (Senior Lecturer in MIT), Ms. M.B. Fathima Sanjeetha (Lecturer — Probationary), Ms. M.I. Fathima Nihla (Lecturer — Probationary), Mr. A.J.M. Hasmy (Instructor in Computer Technology).
+
+Department of Marketing Management: Head: Mr. ALMA. Shameem (Senior Lecturer in Marketing Management). Staff: Prof. MBM. Ismail (Professor in Management), Prof. MIM. Hilal (Professor in Marketing Management), Prof. KM. Mubarak (Professor in Marketing Management).
+
+CHUNK_ID: KB-STAFF-011
+TOPIC: FIA Academic Staff
+CATEGORY: staff
+---
+Faculty of Islamic Studies and Arabic Language:
+Dean: Ash Sheikh. MHA. Munas — Senior Lecturer in Arabic.
+
+Department of Islamic Studies: Head: Prof. SMM. Nafees (Senior Lecturer in Islamic Law). Staff: Prof. SMM. Mazahir (Professor in Islamic Culture), Dr. MIM. Jazeel (Senior Lecturer), Mr. MHM. Nairoos (Senior Lecturer), Prof. Ahamed Sarjoon Razick (Professor in Islamic Studies), Mr. Ahamed Hilmy H.M. (Senior Lecturer in Islamic Banking and Finance), Mr. M.S. Ahamed Riyad Rooly (Senior Lecturer in Accountancy), Dr. AH. Rifas (Senior Lecturer in Islamic Banking and Finance), Ms. MS. Ismiya Begum (Senior Lecturer), Ms. M.M.F. Fahima (Lecturer — Probationary), Ms. M.S.F. Nisfa (Lecturer — Probationary in Islamic Law), Ms. M.M. Shiyana (Lecturer — On Study Leave), Ms. M.I. Nasrin (Lecturer — On Study Leave).
+
+Department of Arabic Language: Head: Dr. AM. Razick (Senior Lecturer in Arabic). Staff: Ash Sheikh. MHA. Munas (Senior Lecturer in Arabic, also Dean), Mr. ABM. Aliyar (Senior Lecturer in Arabic), Mrs. MCS. Shathifa (Senior Lecturer — On Study Leave), Dr. AR. Nasar (Senior Lecturer in Arabic), Dr. Shibly F.H.A. (Senior Lecturer in IT), Ms. ARFS. Farween (Senior Lecturer in Arabic Linguistic and Translation), Mr. S. Issath Nimsith (Senior Lecturer in Accountancy), Mrs. M.Y.M. Suheera (Senior Lecturer — On Study Leave), Ms. ARF. Begum (Senior Lecturer in Social Sciences), Mr. MT. Habeebullah (Senior Lecturer — On Study Leave), Mr. M.S. Zunoomy (Temporary Assistant Lecturer in Linguistics and Translation).
+
+CHUNK_ID: KB-STAFF-012
+TOPIC: FT Academic Staff — BST and ICT Departments
+CATEGORY: staff
+---
+Faculty of Technology:
+Dean: Dr. U.L. Abdul Majeed — Senior Lecturer in BST (also Dean of FT).
+
+Department of Biosystems Technology (BST): Head: Dr. Muneeb M. Musthafa (Senior Lecturer in BST). Staff: Dr. M.G. Mohamed Thariq (Senior Lecturer in BST), Dr. ADNT. Kumara (Senior Lecturer in BST), Dr. A.N.M. Mubarak (Senior Lecturer in BST), Mr. A. Narmilan (Lecturer — Probationary, On Study Leave), Ms. M.B. Fathima Jemziya (Lecturer — Probationary), Ms. N. Sujirtha (Lecturer — On Study Leave), Ms. S.L. Rasmiya Begum (Lecturer — On Study Leave), Dr. G. Nishanthan (Lecturer — Unconfirmed), Mr. MJM. Fari (Lecturer — Unconfirmed), Ms. HAPW. Hettiarachchi (Lecturer — Unconfirmed).
+
+Department of ICT: Head: Mr. RK. Ahmadh Rifai Kariapper (Senior Lecturer in ICT). Staff: Mr. S.L. Abdul Haleem (Senior Lecturer in ICT), Mr. K. Muhammad Rifthy (Senior Lecturer), Mr. M.J. Ahamed Sabani (Senior Lecturer), Mr. P. Pirapuraj (Senior Lecturer), Ms. M.S. Shafana (Senior Lecturer), Dr. IM. Kalith (Senior Lecturer), Ms. A.R. Fathima Shafana (Senior Lecturer), Ms. A. Fathima Musfira (Senior Lecturer), Ms. A. Fathima Sharfana (Lecturer — Probationary), Mr. A. Mohamed Aslam Sujah (Lecturer — Probationary), Mr. MSS. Razeeth (Lecturer — Probationary).
+
+Academic Staff Profile Pages: FAC: http://www.seu.ac.lk/fac/academic_staff.php | FMC: http://www.seu.ac.lk/fmc/academic_staff.php | FAS: https://www.seu.ac.lk/fas/staffNew.html | FIA: http://www.seu.ac.lk/fia/academic_staff.php | FE: http://www.seu.ac.lk/fe/academic_staff.php | FT: http://www.seu.ac.lk/ft/academic_staff.php
