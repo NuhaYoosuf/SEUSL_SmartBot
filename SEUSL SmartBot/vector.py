@@ -14,7 +14,7 @@ embeddings = OllamaEmbeddings(model="mxbai-embed-large")
 SOURCE_DIRECTORIES = [
     "./data",
 ]
-DB_LOCATION = "./seusl_vector_db_v7"
+DB_LOCATION = "./seusl_vector_db_v8"
 FORCE_REINDEX = os.getenv("SEUSL_FORCE_REINDEX", "").strip().lower() in {"1", "true", "yes"}
 
 # Retrieval parameters
@@ -174,4 +174,4 @@ class HybridRetriever:
 
 
 retriever = HybridRetriever()
-print(f"Hybrid retriever ready (dense top-{DENSE_K} + BM25 top-{BM25_K} → RRF top-{FINAL_K}).")
+print(f"Hybrid retriever ready (dense top-{DENSE_K} + BM25 top-{BM25_K} -> RRF top-{FINAL_K}).")

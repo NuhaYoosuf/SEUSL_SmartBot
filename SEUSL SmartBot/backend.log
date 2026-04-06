@@ -1,0 +1,5 @@
+Loading university documents for BM25 index...
+Loaded 8 documents from ./data
+Prepared 309 chunks.
+Built BM25 index over 309 chunks.
+Hybrid retriever ready (dense top-10 + BM25 top-10 -> RRF top-5).
